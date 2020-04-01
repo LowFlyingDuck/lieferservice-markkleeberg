@@ -1,0 +1,354 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:400,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap');
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  outline: none;
+  font-family: 'Montserrat', sans-serif;
+}
+
+body {
+  scroll-behavior: smooth;
+  font-size: 62.5%;
+  background: url('./Background.png') fixed center center no-repeat;
+  background-size: cover;
+}
+
+button {
+  cursor: pointer;
+}
+
+/* nav {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: #FF8942;
+  padding: 20px 20%;
+}
+
+nav img {
+  position: absolute;
+  top: 50%;
+  left: 100px;
+  transform: translateY(-50%);
+  width: 150px;
+}
+
+nav li {
+  list-style-type: none;
+  float: left;
+  margin-right: 40px;
+  font-size: 1.6em;
+} */
+
+main {
+  margin: 20vh 0;
+  text-align: center;
+}
+
+main>img {
+  display: block;
+  width: 1000px;
+  margin: auto;
+}
+
+main>a {
+  display: inline-block;
+  margin-top: 40px;
+  color: white;
+  font-weight: bold;
+  border: 3px solid transparent;
+  background: #FF8942;
+  padding: 10px 30px;
+  border-radius: 100vw;
+  font-size: 2em;
+  transition: 150ms all;
+  text-decoration: none;
+}
+
+main>a:hover {
+  background: transparent;
+  border: 3px solid #FF8942;
+  color: #FF8942;
+
+}
+
+.card {
+  background-color: white;
+  padding: 40px !important;
+  border-radius: 20px;
+  box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.2);
+}
+
+section {
+  padding: 0 20%;
+  margin-bottom: 20px;
+}
+
+section h1 {
+  font-size: 5em;
+  margin-bottom: 20px;
+}
+
+section h2 {
+  font-size: 3em;
+  margin-bottom: 20px;
+}
+
+section p {
+  font-size: 1.8em;
+  display: inline-block;
+}
+
+section h3 {
+  margin-top: 10px;
+  font-size: 2em;
+}
+
+section .inserted {
+  background: rgba(64, 64, 64, 0.2);
+  font-weight: normal;
+  padding: 2px 5px;
+}
+
+section code {
+  font-family: 'Roboto Mono', monospace;
+}
+
+section.database label {
+  font-size: 1.8em;
+}
+
+section.database input {
+  font-size: 1.5em;
+  padding: 5px 0;
+  margin-right: 20px;
+}
+
+section.database input[type="submit"] {
+  color: white;
+  padding: 5px 10px;
+  border: 2px solid transparent;
+  background: #404040;
+  border-radius: 10px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: 150ms ease;
+  transition-property: color background border;
+}
+
+section.database input[type="submit"]:hover {
+  color: #404040;
+  border: 2px solid #404040;
+  background: transparent;
+}
+
+
+section.database>div {
+  padding: 20px 40px;
+  border: 2px solid #404040;
+}
+
+section.database .settings {
+  background-color: #FF8942;
+  border-bottom: transparent;
+}
+
+section.database .items {
+  padding: 40px 40px;
+  background-color: rgba(64, 64, 64, 0.5);
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 20px;
+}
+
+section.database .product {
+  display: flex;
+  box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.2);
+  background: white;
+  border-radius: 20px;
+  text-align: center;
+  justify-content: space-evenly;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+}
+
+section.database .product img {
+  display: block;
+  margin: 0 auto;
+  margin-bottom: auto;
+}
+
+section.database .product p {
+  margin-top: 10px;
+}
+
+.card ul {
+  font-size: 2em;
+  margin-left: 20px;
+  list-style-type: none;
+}
+
+.card li {
+  margin-bottom: 20px;
+}
+
+.card li::before {
+  content: '';
+  display: inline-block;
+  background: url('tick.svg') center center no-repeat;
+  background-size: contain;
+  height: 1em;
+  width: 1em;
+  margin-right: 10px;
+}
+
+section .left {
+  width: 50%;
+  padding: 0 40px 0 0;
+}
+
+section .right {
+  width: 50%;
+  padding: 0 0 0 40px;
+  float: right;
+}
+
+.first {
+  margin-top: 0 !important;
+}
+
+.last {
+  margin-bottom: 0 !important;
+}
+
+footer {
+  position: relative;
+  margin-top: 10em;
+  width: 100%;
+  padding: 30px 20%;
+  background-color: #404040;
+}
+
+footer * {
+  color: white;
+}
+
+footer ul {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+
+footer ul::before {
+  position: absolute;
+  left: 40px;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 1.3em;
+  content: '© 2020 lieferservice-markkleeberg.de'
+}
+
+footer li {
+  list-style-type: none;
+  font-size: 1.6em;
+}
+
+.order {
+  position: fixed;
+  content: '';
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background-color: rgba(0, 0, 0, 0.8);
+  z-index: 99;
+  transition: 150ms display;
+}
+
+.order.hidden {
+  display: none;
+}
+
+.order.shown {
+  display: block;
+}
+
+.order-box {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  padding: 40px;
+  background-color: white;
+  border-radius: 20px;
+  font-size: 2em;
+  max-height: 100vh;
+  overflow-y: auto;
+}
+
+.order-box h2 {
+  margin-bottom: 40px;
+}
+
+.order-box .requirements {
+  border: 2px solid #404040;
+  background-color: rgba(64, 64, 64, 0.2);
+  padding: 10px;
+  border-radius: 10px;
+  font-size: 0.8em;
+  display: inline-block;
+  margin-bottom: 20px;
+}
+
+.order-box ul {
+  margin-top: 10px;
+  list-style: none;
+}
+
+.order-box li::before {
+  content: '∙ '
+}
+
+.order-box form div {
+  display: inline-block;
+  margin: 0 20px 20px 0;
+}
+
+.order-box label {
+  font-size: 0.8em;
+}
+
+.order input {
+  background: transparent;
+  border: 2px solid #404040;
+  border-radius: 5px;
+  padding: 7px;
+  transition: 150ms;
+}
+
+.order input:focus {
+  border-color: #FF8942;
+}
+
+.order-box h3 {
+  margin-bottom: 10px;
+}
+
+#order-box-close {
+  position: absolute;
+  top: 10px;
+  right: 15px;
+  cursor: pointer;
+  -moz-user-select: none;
+  -webkit-user-select: none;
+}
+
+#order-box-close::selection {
+  background: transparent;
+  color: black;
+}

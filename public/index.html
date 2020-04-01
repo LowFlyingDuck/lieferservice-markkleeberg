@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="main.css">
+  <title>Lieferservice-Markkleeberg.de</title>
+</head>
+
+<body>
+  <div class="order hidden">
+    <div class="order-box">
+      <h3 id="order-box-close">✕</h3>
+      <h2>Füllen Sie zum bestellen das folgende Formular aus.</h2>
+      <div class="requirements">
+        <p><strong>Bitte beachten Sie vor dem Bestellen folgendes:</strong></p>
+        <ul>
+          <li>bitte nur in haushaltsüblichen Mengen kaufen</li>
+          <li>eingetragene Produkte, die nicht gekauft wurden, werden erstattet</li>
+          <li>bei einer Diskrepanz werden wir Sie telefonisch kontaktieren</li>
+          <li>die eingetragenen Daten werden auf unserem Server gespeichert</li>
+        </ul>
+      </div>
+      <form action="javascript: sendOrder()">
+        <h3>Person</h3>
+        <div>
+          <label for="first-name">Vorname</label><br>
+          <input type="text" id="first-name">
+        </div>
+        <div>
+          <label for="last-name">Nachname</label><br>
+          <input type="text" id="last-name">
+        </div><br>
+        <div>
+          <label for="email">Email Addresse</label><br>
+          <input type="email" id="email">
+        </div>
+        <div>
+          <label for="telephone">Telefonnummer</label><br>
+          <input type="text" id="telephone">
+        </div><br>
+        <h3>Addresse</h3>
+        <div>
+          <label for="street">Straße & Hausnummer</label><br>
+          <input type="text" id="street">
+        </div>
+        <div>
+          <label for="post">Postleitzahl</label><br>
+          <input type="text" id="post">
+        </div>
+        <div>
+          <label for="town">Ort</label><br>
+          <input type="text" id="town" value="Markkleeberg" readonly>
+        </div>
+      </form>
+    </div>
+  </div>
+  <main>
+    <img src="title.svg" alt="Fernshopper.com | einkaufen mit Distanz">
+    <a href="/pages/database.html" class="datbase-link">Zur Datenbank</a></button>
+  </main>
+  <section class="first">
+    <h2 id="service">Was wir bieten</h2>
+    <p>Wir liefern Ihren Einkauf vom Supermarkt zu Ihnen nach Hause. In dieser Krisenzeit ist dies, besonders für ältere Menschen vorteilhaft, da diese dadurch den Kontakt mit anderen Menschen auf eine Person reduzieren können. Unsere Lieferanten tragen Gummihandschuhe um die optimale Hygiene zu gewährleisten. Falls gewünscht, kann der Lieferant den Einkauf einfach vor Ihre Tür stellen, ohne direkten Kontakt mit Ihnen persönlich.</p>
+  </section>
+  <section>
+    <h2 id="lieferkosten">Lieferkosten & Bezahlung</h2>
+    <p>Um den Erhalt unseres Geschäfts zu gewährleisten, verlangen wir eine kleine Liefergebür für jede Lieferung. Diese Gebür bezieht sich zu diesem Zeitpunkt auf <strong>5.90€</strong>. Sie hilft uns die Benzinkosten und die Betriebskosten für diesen Server zu bezahlen. <br> Für den Fall, dass der Marktbetreiber einen Rabatt auf ein Produkt gibt, wird der Preis des Einkaufs im Nachhinein entsprechend gesenkt. Falls wir Ihnen unabsichtlich den Rabatt nicht gegeben haben, kontaktieren Sie uns bitte telefonisch (Siehe <a href="/pages/impressum.html" target="_blank">Impressum</a> ). Sie bezahlen für die Produkte genauso viel, wie Sie im Laden selber bezahlen würden. In unserer Datenbank sind alle Produkte zusammen mit ihrem Normalpreis gespeichert. Rabatte und Aktionen werden nicht von uns aufgezeichnet. <br> Sie können entweder in Bar oder digital bezahlen. Falls Sie sich entscheiden bar zu bezahlen, müssten Sie das Geld vor Ihre Haustür legen, vorrausgesetzt Sie haben die kontaktlose Lieferung ausgewählt.</p>
+  </section>
+  <section>
+    <h2 id="lieferkosten">Bestellung</h2>
+    <p class="left">Bei der Bestellung muss ein einfaches Formular ausgefüllt werden. Im Formular gegeben Sie Ihre Adresse und Kontaktdaten an und können sich anschließend Ihren Einkauf aus unserer Datenbank zusammenstellen. Falls Sie ein Produkt nicht vorfinden, können Sie ein eigenes Produkt hinzufügen. <br> Aufgrund dessen, dass unsere Datenbank alle Produkte enthält, die unser Markt in all seinen Filialen anbietet, können wir nicht garantieren alle bestellten Produkte zu liefern. <br> Bei der Bestellung können Sie ebenfalls angeben, ob wir für jedes Produkt, welches nicht vorhanden ist ein alternatives Produkt auswählen, dass dem bestellten Produkt ähnelt. <br> Sobald bestellt trifft Ihr Einkauf innerhalb von wenigen Stunden (abhängig von der Menge an Artikeln) bei Ihnen ein.</p>
+    <div class="card right">
+      <ul class="ticks">
+        <li>kontaktlose Lieferung</li>
+        <li>Hygienevorschriften</li>
+        <li>Bezahlung digital und bar</li>
+        <li>Mit Quittung und Lieferrechnung</li>
+        <li class="last">schnelle Lieferung</li>
+      </ul>
+    </div>
+  </section>
+  <section>
+    
+  </section>
+  <footer>
+    <ul>
+      <li><a href="/index.html">Start</a></li>
+      <li><a href="/pages/database.html">Datenbank</a></li>
+      <li>Datenschutzerklärung</li>
+      <li>Impressum</li>
+      <li class="last"><a href="/pages/haftungsausschluss.html">Haftungsausschluss</a></li>
+    </ul>
+  </footer>
+  <script src="app.js" defer></script>
+</body>
+
+</html>
