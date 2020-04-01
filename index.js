@@ -1,4 +1,5 @@
 // setup - server
+const { exec } = require('child_process');
 const express = require('express');
 const app = express();
 const fs = require('fs');
@@ -52,6 +53,10 @@ function makeProduct(name, img, prize, comPrize) {
   </div>`
   return item;
 }
+
+setInterval(() => exec('sudo certbot renew', (err, stdout) => {
+  console.log(stdout);
+}), 3600000);
 
 // run
 server.listen(443);

@@ -4,7 +4,7 @@
   "description": "A platform for ordering the provider to shop desired items from nearby supermarkets and grocery shops.",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "forever index.js"
   },
   "keywords": [
     "supermarket-delivery",
