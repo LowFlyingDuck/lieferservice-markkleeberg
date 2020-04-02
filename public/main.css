@@ -20,6 +20,10 @@ button {
   cursor: pointer;
 }
 
+a {
+  color: #380049;
+}
+
 /* nav {
   position: absolute;
   top: 0;
@@ -47,6 +51,10 @@ nav li {
 main {
   margin: 20vh 0;
   text-align: center;
+}
+
+main>h1 {
+  color: #380049;
 }
 
 main>img {
@@ -106,6 +114,12 @@ section p {
 section h3 {
   margin-top: 10px;
   font-size: 2em;
+}
+
+section ul {
+  font-size: 2em;
+  list-style: none;
+  line-height: 1.5em;
 }
 
 section .inserted {
