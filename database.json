@@ -1,6 +1,5 @@
 {
-  "products": [
-    {
+  "products": [{
       "name": "*BECEL VITAL 30% 250G",
       "img": "https://www.konsum-leipzig.de/media/image/b9/27/71/Becel-vital_200x200.png",
       "prize": "1,89 €",
@@ -413,6 +412,12 @@
       "img": "https://www.konsum-leipzig.de/media/image/a6/26/76/2208735007_1_print_200x200.jpg",
       "prize": "2,39 €",
       "comPrize": 2.39
+    },
+    {
+      "name": "Altenburger Premium BV 0,5l MW",
+      "img": "https://www.konsum-leipzig.de/media/image/8a/95/2f/DV019_4016763000207_VORgv18rPfzlUHim_200x200.png, https://www.konsum-leipzig.de/media/image/2a/27/5b/DV019_4016763000207_VORgv18rPfzlUHim_200x200@2x.png 2x",
+      "prize": "0,89 €",
+      "comPrize": 0.89
     },
     {
       "name": "Altenburger Premium BV 0,5l MW",
@@ -890,6 +895,12 @@
     },
     {
       "name": "BACARDI Carta Blanca Rum 37,5% 0,7l",
+      "img": "https://www.konsum-leipzig.de/media/image/73/96/c4/DV019_5010677012638_VOR_200x200.png, https://www.konsum-leipzig.de/media/image/95/7f/21/DV019_5010677012638_VOR_200x200@2x.png 2x",
+      "prize": "13,99 €",
+      "comPrize": 13.99
+    },
+    {
+      "name": "BACARDI Carta Blanca Rum 37,5% 0,7l",
       "img": "https://www.konsum-leipzig.de/media/image/bf/1f/6e/DV019_5010677012638_VORsf9Ye9GLui38r_200x200.png, https://www.konsum-leipzig.de/media/image/a0/63/16/DV019_5010677012638_VORsf9Ye9GLui38r_200x200@2x.png 2x",
       "prize": "13,99 €",
       "comPrize": 13.99
@@ -971,6 +982,12 @@
       "img": "https://www.konsum-leipzig.de/media/image/7e/f3/0f/DV019_4017434000861_PERJK6Np1K3hS93W_200x200.png, https://www.konsum-leipzig.de/media/image/37/4c/86/DV019_4017434000861_PERJK6Np1K3hS93W_200x200@2x.png 2x",
       "prize": "4,99 €",
       "comPrize": 4.99
+    },
+    {
+      "name": "Bad Brambacher Mineralwasser plus Lemon 1l DPG",
+      "img": "https://www.konsum-leipzig.de/media/image/aa/98/a2/DV019_4017434000199_VORFMrXmvjUQaz1p_200x200.png, https://www.konsum-leipzig.de/media/image/22/ed/fc/DV019_4017434000199_VORFMrXmvjUQaz1p_200x200@2x.png 2x",
+      "prize": "0,59 €",
+      "comPrize": 0.59
     },
     {
       "name": "Bad Brambacher Mineralwasser plus Lemon 1l DPG",
@@ -1855,12 +1872,6 @@
       "comPrize": 1.39
     },
     {
-      "name": "Bio Alnatura Kichererbsen getrocknet 500g",
-      "img": "https://www.konsum-leipzig.de/media/image/d3/71/3f/DV019_4104420022683_VORDc847MkQCZGDh_200x200.png, https://www.konsum-leipzig.de/media/image/f1/18/d1/DV019_4104420022683_VORDc847MkQCZGDh_200x200@2x.png 2x",
-      "prize": "2,29 €",
-      "comPrize": 2.29
-    },
-    {
       "name": "Bio Alnatura Kinder Früchte Müsli 500g",
       "img": "https://www.konsum-leipzig.de/media/image/17/0e/ca/DV019_4104420206328_VORNS3sCp1c9yAAL_200x200.png, https://www.konsum-leipzig.de/media/image/cf/g0/dd/DV019_4104420206328_VORNS3sCp1c9yAAL_200x200@2x.png 2x",
       "prize": "2,69 €",
@@ -2057,6 +2068,12 @@
       "img": "https://www.konsum-leipzig.de/media/image/5b/7a/e3/DV019_4311501455975_PER_200x200.png, https://www.konsum-leipzig.de/media/image/a9/7b/75/DV019_4311501455975_PER_200x200@2x.png 2x",
       "prize": "1,09 €",
       "comPrize": 1.09
+    },
+    {
+      "name": "Bio EDEKA ESL-Vollmilch 3,8% 1l",
+      "img": "",
+      "prize": "1,29 €",
+      "comPrize": 1.29
     },
     {
       "name": "Bio EDEKA ESL-Vollmilch 3,8% 1l",
@@ -2339,6 +2356,12 @@
       "img": "https://www.konsum-leipzig.de/media/image/2e/9e/8b/DV019_4001432096032_VORc1jXAjJNag6NE_200x200.png, https://www.konsum-leipzig.de/media/image/08/42/3e/DV019_4001432096032_VORc1jXAjJNag6NE_200x200@2x.png 2x",
       "prize": "3,99 €",
       "comPrize": 3.99
+    },
+    {
+      "name": "Bio Störtebeker alkoholfreies Bier Pils 0,5l MW",
+      "img": "https://www.konsum-leipzig.de/media/image/ea/f3/23/DV019_4014807201030_PERA4bI9dZFhwdO8_200x200.png, https://www.konsum-leipzig.de/media/image/59/15/f9/DV019_4014807201030_PERA4bI9dZFhwdO8_200x200@2x.png 2x",
+      "prize": "20,99 €",
+      "comPrize": 20.99
     },
     {
       "name": "Bio Störtebeker alkoholfreies Bier Pils 0,5l MW",
@@ -2852,6 +2875,12 @@
     },
     {
       "name": "Budweiser Budvar Premium Lager 0,5l MW",
+      "img": "https://www.konsum-leipzig.de/media/image/3f/6c/52/DV019_8594403454123_PERNu575YSgYQ3K3_200x200.png, https://www.konsum-leipzig.de/media/image/88/a6/b6/DV019_8594403454123_PERNu575YSgYQ3K3_200x200@2x.png 2x",
+      "prize": "17,99 €",
+      "comPrize": 17.99
+    },
+    {
+      "name": "Budweiser Budvar Premium Lager 0,5l MW",
       "img": "https://www.konsum-leipzig.de/media/image/fc/af/71/DV019_8594403110111_VOR0ULjAFknZeMcT_200x200.png, https://www.konsum-leipzig.de/media/image/4f/22/ce/DV019_8594403110111_VOR0ULjAFknZeMcT_200x200@2x.png 2x",
       "prize": "0,99 €",
       "comPrize": 0.99
@@ -3311,6 +3340,12 @@
       "img": "https://www.konsum-leipzig.de/media/image/ea/f1/90/DV019_4018077620003_VORyvHXe0sNeBhxK_200x200.png, https://www.konsum-leipzig.de/media/image/7e/53/59/DV019_4018077620003_VORyvHXe0sNeBhxK_200x200@2x.png 2x",
       "prize": "1,69 €",
       "comPrize": 1.69
+    },
+    {
+      "name": "Coca Cola 1l MW PET",
+      "img": "https://www.konsum-leipzig.de/media/image/f7/b6/bb/DV019_5449000017888_VORtyCD2ND9Xr3vJ_200x200.png, https://www.konsum-leipzig.de/media/image/e3/94/92/DV019_5449000017888_VORtyCD2ND9Xr3vJ_200x200@2x.png 2x",
+      "prize": "1,19 €",
+      "comPrize": 1.19
     },
     {
       "name": "Coca Cola 1l MW PET",
@@ -4550,73 +4585,73 @@
     },
     {
       "name": "Echter Nordhäuser Beerenfrucht 18% 0,7l",
-      "img": "https://www.konsum-leipzig.de/media/image/35/95/05/DV019_4400065466005_VORgTZyht7li4vmu_200x200.png, https://www.konsum-leipzig.de/media/image/e4/57/fb/DV019_4400065466005_VORgTZyht7li4vmu_200x200@2x.png 2x",
+      "img": "https://www.konsum-leipzig.de/media/image/2e/96/69/DV019_4400065466005_VORaku237rUiLsKj_200x200.png, https://www.konsum-leipzig.de/media/image/fe/8b/97/DV019_4400065466005_VORaku237rUiLsKj_200x200@2x.png 2x",
       "prize": "4,89 €",
       "comPrize": 4.89
     },
     {
       "name": "Echter Nordhäuser Doppelkorn 38% 0,35l",
-      "img": "https://www.konsum-leipzig.de/media/image/1c/2c/ef/DV019_4400065467200_VORkj8xmekzqBrw4_200x200.png, https://www.konsum-leipzig.de/media/image/8c/4a/81/DV019_4400065467200_VORkj8xmekzqBrw4_200x200@2x.png 2x",
+      "img": "https://www.konsum-leipzig.de/media/image/59/ac/c9/DV019_4400065467200_VORwzOeCO4x0B59r_200x200.png, https://www.konsum-leipzig.de/media/image/ec/fe/8c/DV019_4400065467200_VORwzOeCO4x0B59r_200x200@2x.png 2x",
       "prize": "4,99 €",
       "comPrize": 4.99
     },
     {
       "name": "Echter Nordhäuser Doppelkorn 38% 0,7l",
-      "img": "https://www.konsum-leipzig.de/media/image/ba/5b/8d/DV019_4400065467101_VOR8IBYl3A9doCKL_200x200.png, https://www.konsum-leipzig.de/media/image/ae/64/5c/DV019_4400065467101_VOR8IBYl3A9doCKL_200x200@2x.png 2x",
-      "prize": "6,79 €",
-      "comPrize": 6.79
+      "img": "https://www.konsum-leipzig.de/media/image/b8/ff/db/DV019_4400065467101_VOR5rsns7HOXt1Uu_200x200.png, https://www.konsum-leipzig.de/media/image/c0/47/e5/DV019_4400065467101_VOR5rsns7HOXt1Uu_200x200@2x.png 2x",
+      "prize": "6,49 €",
+      "comPrize": 6.49
     },
     {
       "name": "Echter Nordhäuser Eiskorn 32%0,7l",
-      "img": "https://www.konsum-leipzig.de/media/image/7a/42/11/DV019_4400065470101_VORMJ0zD882x888F_200x200.png, https://www.konsum-leipzig.de/media/image/b0/9e/33/DV019_4400065470101_VORMJ0zD882x888F_200x200@2x.png 2x",
+      "img": "https://www.konsum-leipzig.de/media/image/dd/74/58/DV019_4400065470101_VORZ0GNDsNlKSrwn_200x200.png, https://www.konsum-leipzig.de/media/image/4b/7e/ba/DV019_4400065470101_VORZ0GNDsNlKSrwn_200x200@2x.png 2x",
       "prize": "7,99 €",
       "comPrize": 7.99
     },
     {
       "name": "Echter Nordhäuser Eisvodka 37,5% 0,7l",
-      "img": "https://www.konsum-leipzig.de/media/image/be/3c/39/DV019_4400065473003_VOR_200x200.png, https://www.konsum-leipzig.de/media/image/d9/60/7a/DV019_4400065473003_VOR_200x200@2x.png 2x",
+      "img": "https://www.konsum-leipzig.de/media/image/38/73/1b/DV019_4400065473003_VORl5zXctijbtfyB_200x200.png, https://www.konsum-leipzig.de/media/image/6d/51/91/DV019_4400065473003_VORl5zXctijbtfyB_200x200@2x.png 2x",
       "prize": "7,99 €",
       "comPrize": 7.99
     },
     {
       "name": "Echter Nordhäuser Himbeere 18% 0,7l",
-      "img": "https://www.konsum-leipzig.de/media/image/e0/f9/7c/DV019_4400065479104_VOR5XoetwEI9sVtI_200x200.png, https://www.konsum-leipzig.de/media/image/92/66/51/DV019_4400065479104_VOR5XoetwEI9sVtI_200x200@2x.png 2x",
+      "img": "https://www.konsum-leipzig.de/media/image/54/e0/87/DV019_4400065479104_VOR2Yy38brjWFSUZ_200x200.png, https://www.konsum-leipzig.de/media/image/2a/06/f8/DV019_4400065479104_VOR2Yy38brjWFSUZ_200x200@2x.png 2x",
       "prize": "4,89 €",
       "comPrize": 4.89
     },
     {
       "name": "Echter Nordhäuser Johannisbeere 18% 0,7l",
-      "img": "https://www.konsum-leipzig.de/media/image/63/f1/f5/DV019_4400065464001_VORyvZAh1pFwN0AB_200x200.png, https://www.konsum-leipzig.de/media/image/1d/80/ba/DV019_4400065464001_VORyvZAh1pFwN0AB_200x200@2x.png 2x",
+      "img": "https://www.konsum-leipzig.de/media/image/c9/1d/47/DV019_4400065464001_VORE0gH83AQq5CsH_200x200.png, https://www.konsum-leipzig.de/media/image/16/83/c0/DV019_4400065464001_VORE0gH83AQq5CsH_200x200@2x.png 2x",
       "prize": "4,89 €",
       "comPrize": 4.89
     },
     {
       "name": "Echter Nordhäuser Korn 32% Vol. 0,7l",
-      "img": "https://www.konsum-leipzig.de/media/image/46/f3/cf/DV019_4400065461109_VORWQrUGChYjPqA5_200x200.png, https://www.konsum-leipzig.de/media/image/49/ac/51/DV019_4400065461109_VORWQrUGChYjPqA5_200x200@2x.png 2x",
+      "img": "https://www.konsum-leipzig.de/media/image/1a/4b/32/DV019_4400065461109_VORYbSSTuWa5TcMV_200x200.png, https://www.konsum-leipzig.de/media/image/cc/93/2b/DV019_4400065461109_VORYbSSTuWa5TcMV_200x200@2x.png 2x",
       "prize": "6,49 €",
       "comPrize": 6.49
     },
     {
       "name": "Echter Nordhäuser Reiche Ernte Haselnuss 30% 0,5l",
-      "img": "https://www.konsum-leipzig.de/media/image/ff/9d/7c/DV019_4400065458000_VOR71gJT0waE4fMA_200x200.png, https://www.konsum-leipzig.de/media/image/68/27/d7/DV019_4400065458000_VOR71gJT0waE4fMA_200x200@2x.png 2x",
+      "img": "https://www.konsum-leipzig.de/media/image/0a/a2/aa/DV019_4400065458000_VOR9OXz3w4DnlJa2_200x200.png, https://www.konsum-leipzig.de/media/image/41/b9/9c/DV019_4400065458000_VOR9OXz3w4DnlJa2_200x200@2x.png 2x",
       "prize": "7,49 €",
       "comPrize": 7.49
     },
     {
       "name": "Echter Nordhäuser Reiche Ernte Williamsbirne...",
-      "img": "https://www.konsum-leipzig.de/media/image/7e/9a/85/DV019_4400065463202_VOROp3FsB7UQPHYx_200x200.png, https://www.konsum-leipzig.de/media/image/98/41/21/DV019_4400065463202_VOROp3FsB7UQPHYx_200x200@2x.png 2x",
+      "img": "https://www.konsum-leipzig.de/media/image/1f/9d/50/DV019_4400065463202_VORu2CrRh8Z3uOkh_200x200.png, https://www.konsum-leipzig.de/media/image/4e/08/32/DV019_4400065463202_VORu2CrRh8Z3uOkh_200x200@2x.png 2x",
       "prize": "7,49 €",
       "comPrize": 7.49
     },
     {
       "name": "Echter Nordhäuser Saure Kirsche 16% 0,7l",
-      "img": "https://www.konsum-leipzig.de/media/image/a4/8e/98/DV019_4400065465008_VORPZxLdIsOeDjj1_200x200.png, https://www.konsum-leipzig.de/media/image/e9/5e/53/DV019_4400065465008_VORPZxLdIsOeDjj1_200x200@2x.png 2x",
+      "img": "https://www.konsum-leipzig.de/media/image/4d/a0/7c/DV019_4400065465008_VORF2fk1dnNkXHwA_200x200.png, https://www.konsum-leipzig.de/media/image/d8/9d/27/DV019_4400065465008_VORF2fk1dnNkXHwA_200x200@2x.png 2x",
       "prize": "4,89 €",
       "comPrize": 4.89
     },
     {
       "name": "Echter Nordhäuser Wildkräuter30% 0,7l",
-      "img": "https://www.konsum-leipzig.de/media/image/df/b2/e4/DV019_4400065450103_VORV4iJvYYuiomMj_200x200.png, https://www.konsum-leipzig.de/media/image/9f/22/c6/DV019_4400065450103_VORV4iJvYYuiomMj_200x200@2x.png 2x",
+      "img": "https://www.konsum-leipzig.de/media/image/61/3f/30/DV019_4400065450103_VORLghW7thndG6ZN_200x200.png, https://www.konsum-leipzig.de/media/image/1d/4c/97/DV019_4400065450103_VORLghW7thndG6ZN_200x200@2x.png 2x",
       "prize": "7,49 €",
       "comPrize": 7.49
     },
@@ -4921,6 +4956,12 @@
       "comPrize": 1.49
     },
     {
+      "name": "EDEKA Dental Sticks plus 7ST 210g",
+      "img": "https://www.konsum-leipzig.de/media/image/35/3a/6c/DV019_4311501401347_PER_Logo1WvWNY8T2MXHC_200x200.png, https://www.konsum-leipzig.de/media/image/e5/7f/38/DV019_4311501401347_PER_Logo1WvWNY8T2MXHC_200x200@2x.png 2x",
+      "prize": "0,99 €",
+      "comPrize": 0.99
+    },
+    {
       "name": "EDEKA Dicke Fritte 750g",
       "img": "https://www.konsum-leipzig.de/media/image/bf/a9/ca/DV019_4311501478356_PERqONnDZwaksebC_200x200.png, https://www.konsum-leipzig.de/media/image/52/39/98/DV019_4311501478356_PERqONnDZwaksebC_200x200@2x.png 2x",
       "prize": "1,49 €",
@@ -4939,10 +4980,10 @@
       "comPrize": 0.99
     },
     {
-      "name": "EDEKA Dog Gelenk Fit 175g",
-      "img": "https://www.konsum-leipzig.de/media/image/4d/22/1e/DV019_4311501449295_PERXHGDbP2gMX6S4_200x200.png, https://www.konsum-leipzig.de/media/image/89/04/16/DV019_4311501449295_PERXHGDbP2gMX6S4_200x200@2x.png 2x",
-      "prize": "0,99 €",
-      "comPrize": 0.99
+      "name": "EDEKA Edamer Weidemilch Scheiben 40% 150g",
+      "img": "https://www.konsum-leipzig.de/media/image/07/21/ef/DV019_4311501499481_PER_200x200.png, https://www.konsum-leipzig.de/media/image/6f/98/b9/DV019_4311501499481_PER_200x200@2x.png 2x",
+      "prize": "1,49 €",
+      "comPrize": 1.49
     },
     {
       "name": "EDEKA Edamer Weidemilch Scheiben 40% 150g",
@@ -5894,7 +5935,7 @@
     },
     {
       "name": "EDEKA Kichererbsen 400g",
-      "img": "https://www.konsum-leipzig.de/media/image/af/7d/4b/DV019_4311501434482_PER_schwarz_200x200.png, https://www.konsum-leipzig.de/media/image/12/65/93/DV019_4311501434482_PER_schwarz_200x200@2x.png 2x",
+      "img": "https://www.konsum-leipzig.de/media/image/5e/63/f2/DV019_4311501434482_PERYfamJ4AllJuxg_200x200.png, https://www.konsum-leipzig.de/media/image/98/3c/a6/DV019_4311501434482_PERYfamJ4AllJuxg_200x200@2x.png 2x",
       "prize": "0,79 €",
       "comPrize": 0.79
     },
@@ -6764,6 +6805,12 @@
     },
     {
       "name": "Fanta Orange 1l MW PET",
+      "img": "https://www.konsum-leipzig.de/media/image/a3/24/20/DV019_5449000017918_VOR92tNq9jSH5mWy_200x200.png, https://www.konsum-leipzig.de/media/image/57/be/08/DV019_5449000017918_VOR92tNq9jSH5mWy_200x200@2x.png 2x",
+      "prize": "1,19 €",
+      "comPrize": 1.19
+    },
+    {
+      "name": "Fanta Orange 1l MW PET",
       "img": "https://www.konsum-leipzig.de/media/image/28/eb/9d/DV019_5449000017994_PERR6VCAlC9FVVUA_200x200.png, https://www.konsum-leipzig.de/media/image/75/c6/49/DV019_5449000017994_PERR6VCAlC9FVVUA_200x200@2x.png 2x",
       "prize": "12,48 €",
       "comPrize": 12.48
@@ -7256,6 +7303,12 @@
     },
     {
       "name": "Freiberger Bock dunkel 0,5l MW",
+      "img": "https://www.konsum-leipzig.de/media/image/ed/03/ef/DV019_42025818_VORbM5s4OxzUrFq5_200x200.png, https://www.konsum-leipzig.de/media/image/0b/e5/c7/DV019_42025818_VORbM5s4OxzUrFq5_200x200@2x.png 2x",
+      "prize": "0,95 €",
+      "comPrize": 0.95
+    },
+    {
+      "name": "Freiberger Bock dunkel 0,5l MW",
       "img": "https://www.konsum-leipzig.de/media/image/36/eb/2e/DV019_4013246100027_PERoZVq7gBRtsVdS_200x200.png, https://www.konsum-leipzig.de/media/image/35/4d/9a/DV019_4013246100027_PERoZVq7gBRtsVdS_200x200@2x.png 2x",
       "prize": "14,99 €",
       "comPrize": 14.99
@@ -7265,6 +7318,12 @@
       "img": "https://www.konsum-leipzig.de/media/image/df/db/7a/DV019_4013246203315_VORtss5yDe4CCdK7_200x200.png, https://www.konsum-leipzig.de/media/image/36/49/4e/DV019_4013246203315_VORtss5yDe4CCdK7_200x200@2x.png 2x",
       "prize": "0,69 €",
       "comPrize": 0.69
+    },
+    {
+      "name": "Freiberger Pils 0,5l MW",
+      "img": "https://www.konsum-leipzig.de/media/image/6f/a3/85/DV019_42011859_VOR0a6ZlAcFIWZ1Z_200x200.png, https://www.konsum-leipzig.de/media/image/ed/22/c1/DV019_42011859_VOR0a6ZlAcFIWZ1Z_200x200@2x.png 2x",
+      "prize": "0,85 €",
+      "comPrize": 0.85
     },
     {
       "name": "Freiberger Pils 0,5l MW",
@@ -7403,6 +7462,12 @@
       "img": "https://www.konsum-leipzig.de/media/image/a6/4a/a8/DV019_40455563_VORYLoX4qDvzlihE_200x200.png, https://www.konsum-leipzig.de/media/image/66/f8/30/DV019_40455563_VORYLoX4qDvzlihE_200x200@2x.png 2x",
       "prize": "0,49 €",
       "comPrize": 0.49
+    },
+    {
+      "name": "Fritz Kola 0,33l MW",
+      "img": "https://www.konsum-leipzig.de/media/image/4f/04/35/DV019_4260107220121_PERMhohh7rJwoEdk_200x200.png, https://www.konsum-leipzig.de/media/image/83/3e/82/DV019_4260107220121_PERMhohh7rJwoEdk_200x200@2x.png 2x",
+      "prize": "18,99 €",
+      "comPrize": 18.99
     },
     {
       "name": "Fritz Kola 0,33l MW",
@@ -7556,7 +7621,19 @@
     },
     {
       "name": "Fruchtbecher mit Orangen, Äpfel, Ananas, Kiwi...",
+      "img": "https://www.konsum-leipzig.de/media/image/7e/6f/7b/100005082_Fruchtbecher-14_200x200.jpg, https://www.konsum-leipzig.de/media/image/07/06/2e/100005082_Fruchtbecher-14_200x200@2x.jpg 2x",
+      "prize": "1,18 €",
+      "comPrize": 1.18
+    },
+    {
+      "name": "Fruchtbecher mit Orangen, Äpfel, Ananas, Kiwi...",
       "img": "https://www.konsum-leipzig.de/media/image/61/0e/fe/100005083_Fruchtbecher-15_200x200.jpg, https://www.konsum-leipzig.de/media/image/64/96/2a/100005083_Fruchtbecher-15_200x200@2x.jpg 2x",
+      "prize": "1,18 €",
+      "comPrize": 1.18
+    },
+    {
+      "name": "Fruchtbecher mit Orangen, Äpfel, Kiwi grün,...",
+      "img": "https://www.konsum-leipzig.de/media/image/9a/a8/47/100005080_Fruchtbecher-12_200x200.jpg, https://www.konsum-leipzig.de/media/image/14/0e/7c/100005080_Fruchtbecher-12_200x200@2x.jpg 2x",
       "prize": "1,18 €",
       "comPrize": 1.18
     },
@@ -8516,6 +8593,12 @@
     },
     {
       "name": "GUT&GÜNSTIG Apfelschorle 1,5l DPG",
+      "img": "https://www.konsum-leipzig.de/media/image/d3/09/d4/DV019_4311596435869_PERx4omOGksdpJUX_200x200.png, https://www.konsum-leipzig.de/media/image/ae/ff/58/DV019_4311596435869_PERx4omOGksdpJUX_200x200@2x.png 2x",
+      "prize": "0,79 €",
+      "comPrize": 0.79
+    },
+    {
+      "name": "GUT&GÜNSTIG Apfelschorle 1,5l DPG",
       "img": "https://www.konsum-leipzig.de/media/image/a3/04/66/DV019_4311596435876_PER7kWW6t6z5qaOq_200x200.png, https://www.konsum-leipzig.de/media/image/42/74/e0/DV019_4311596435876_PER7kWW6t6z5qaOq_200x200@2x.png 2x",
       "prize": "4,74 €",
       "comPrize": 4.74
@@ -8726,6 +8809,12 @@
     },
     {
       "name": "GUT&GÜNSTIG Bodentuch Color 2ST",
+      "img": "https://www.konsum-leipzig.de/media/image/d6/9e/2c/DV019_4311536965050_PER_200x200.png, https://www.konsum-leipzig.de/media/image/28/22/2a/DV019_4311536965050_PER_200x200@2x.png 2x",
+      "prize": "1,19 €",
+      "comPrize": 1.19
+    },
+    {
+      "name": "GUT&GÜNSTIG Bodentuch Color 2ST",
       "img": "https://www.konsum-leipzig.de/media/image/a2/38/e2/DV019_4311536965050_PERClZ95Sdp1cZOR_200x200.png, https://www.konsum-leipzig.de/media/image/ca/21/82/DV019_4311536965050_PERClZ95Sdp1cZOR_200x200@2x.png 2x",
       "prize": "0,99 €",
       "comPrize": 0.99
@@ -8771,6 +8860,12 @@
       "img": "https://www.konsum-leipzig.de/media/image/17/e6/0d/DV019_4311501485071_PERYuPKj4ncUsMXX_200x200.png, https://www.konsum-leipzig.de/media/image/87/4a/04/DV019_4311501485071_PERYuPKj4ncUsMXX_200x200@2x.png 2x",
       "prize": "1,89 €",
       "comPrize": 1.89
+    },
+    {
+      "name": "GUT&GÜNSTIG Butterbrottüten 100ST",
+      "img": "https://www.konsum-leipzig.de/media/image/d5/33/6c/DV019_4311536921162_PER_200x200.png, https://www.konsum-leipzig.de/media/image/52/9a/ff/DV019_4311536921162_PER_200x200@2x.png 2x",
+      "prize": "1,19 €",
+      "comPrize": 1.19
     },
     {
       "name": "GUT&GÜNSTIG Butterbrottüten 100ST",
@@ -9032,9 +9127,21 @@
     },
     {
       "name": "GUT&GÜNSTIG Cola Zero 1,5l DPG",
+      "img": "https://www.konsum-leipzig.de/media/image/1e/af/78/DV019_4311596447893_PERedxY4GgGkLVQI_200x200.png, https://www.konsum-leipzig.de/media/image/71/35/47/DV019_4311596447893_PERedxY4GgGkLVQI_200x200@2x.png 2x",
+      "prize": "0,45 €",
+      "comPrize": 0.45
+    },
+    {
+      "name": "GUT&GÜNSTIG Cola Zero 1,5l DPG",
       "img": "https://www.konsum-leipzig.de/media/image/cc/e7/11/DV019_4311596447909_PERmnzePQcncbjfF_200x200.png, https://www.konsum-leipzig.de/media/image/fd/5c/ba/DV019_4311596447909_PERmnzePQcncbjfF_200x200@2x.png 2x",
       "prize": "2,34 €",
       "comPrize": 2.34
+    },
+    {
+      "name": "GUT&GÜNSTIG Cola-Mix Zero 1,5l DPG",
+      "img": "https://www.konsum-leipzig.de/media/image/7e/d3/ca/DV019_4311596460892_PER2jE47K53kkGaZ_200x200.png, https://www.konsum-leipzig.de/media/image/4a/29/5e/DV019_4311596460892_PER2jE47K53kkGaZ_200x200@2x.png 2x",
+      "prize": "0,45 €",
+      "comPrize": 0.45
     },
     {
       "name": "GUT&GÜNSTIG Cola-Mix Zero 1,5l DPG",
@@ -9362,13 +9469,25 @@
     },
     {
       "name": "GUT&GÜNSTIG Eistee Pfirsich 0,5l DPG",
-      "img": "https://www.konsum-leipzig.de/media/image/b5/5b/5c/DV019_4311501480052_PER41bptt3prBXr6_200x200.png, https://www.konsum-leipzig.de/media/image/c0/da/15/DV019_4311501480052_PER41bptt3prBXr6_200x200@2x.png 2x",
+      "img": "https://www.konsum-leipzig.de/media/image/76/72/c9/DV019_4311501480052_PERXxLbbCqxYMnEa_200x200.png, https://www.konsum-leipzig.de/media/image/b3/7a/1f/DV019_4311501480052_PERXxLbbCqxYMnEa_200x200@2x.png 2x",
+      "prize": "1,75 €",
+      "comPrize": 1.75
+    },
+    {
+      "name": "GUT&GÜNSTIG Eistee Pfirsich 0,5l DPG",
+      "img": "https://www.konsum-leipzig.de/media/image/76/72/c9/DV019_4311501480052_PERXxLbbCqxYMnEa_200x200.png, https://www.konsum-leipzig.de/media/image/b3/7a/1f/DV019_4311501480052_PERXxLbbCqxYMnEa_200x200@2x.png 2x",
       "prize": "0,29 €",
       "comPrize": 0.29
     },
     {
       "name": "GUT&GÜNSTIG Eistee Zitrone 0,5l DPG",
-      "img": "https://www.konsum-leipzig.de/media/image/3f/5d/db/DV019_4311501480021_PER8Xfbgp066BXrd_200x200.png, https://www.konsum-leipzig.de/media/image/87/44/d1/DV019_4311501480021_PER8Xfbgp066BXrd_200x200@2x.png 2x",
+      "img": "https://www.konsum-leipzig.de/media/image/3d/63/03/DV019_4311501480021_PER0iyXoKxElK512_200x200.png, https://www.konsum-leipzig.de/media/image/a4/b4/95/DV019_4311501480021_PER0iyXoKxElK512_200x200@2x.png 2x",
+      "prize": "1,75 €",
+      "comPrize": 1.75
+    },
+    {
+      "name": "GUT&GÜNSTIG Eistee Zitrone 0,5l DPG",
+      "img": "https://www.konsum-leipzig.de/media/image/3d/63/03/DV019_4311501480021_PER0iyXoKxElK512_200x200.png, https://www.konsum-leipzig.de/media/image/a4/b4/95/DV019_4311501480021_PER0iyXoKxElK512_200x200@2x.png 2x",
       "prize": "0,29 €",
       "comPrize": 0.29
     },
@@ -9560,6 +9679,12 @@
     },
     {
       "name": "GUT&GÜNSTIG fettarmer Joghurt mild...",
+      "img": "https://www.konsum-leipzig.de/media/image/8a/10/d4/DV019_40554440_PER_PfirsichMangoIVqy2s3M10D6B_200x200.png, https://www.konsum-leipzig.de/media/image/c8/31/5e/DV019_40554440_PER_PfirsichMangoIVqy2s3M10D6B_200x200@2x.png 2x",
+      "prize": "0,35 €",
+      "comPrize": 0.35
+    },
+    {
+      "name": "GUT&GÜNSTIG fettarmer Joghurt mild...",
       "img": "https://www.konsum-leipzig.de/media/image/11/a9/3d/DV019_40554433_PER_KirscheiitDer7m8ll1S_200x200.png, https://www.konsum-leipzig.de/media/image/2f/05/30/DV019_40554433_PER_KirscheiitDer7m8ll1S_200x200@2x.png 2x",
       "prize": "0,35 €",
       "comPrize": 0.35
@@ -9737,6 +9862,24 @@
       "img": "https://www.konsum-leipzig.de/media/image/bd/5d/27/DV019_4311501442975_PER_200x200.png, https://www.konsum-leipzig.de/media/image/e2/a5/cb/DV019_4311501442975_PER_200x200@2x.png 2x",
       "prize": "0,99 €",
       "comPrize": 0.99
+    },
+    {
+      "name": "GUT&GÜNSTIG Fruchtquark mit Schokoraspeln...",
+      "img": "https://www.konsum-leipzig.de/media/image/37/88/29/DV019_43115242_PERUWOU2hQXVNcwr_200x200.png, https://www.konsum-leipzig.de/media/image/24/fc/74/DV019_43115242_PERUWOU2hQXVNcwr_200x200@2x.png 2x",
+      "prize": "0,59 €",
+      "comPrize": 0.59
+    },
+    {
+      "name": "GUT&GÜNSTIG Fruchtquark mit Schokoraspeln...",
+      "img": "https://www.konsum-leipzig.de/media/image/13/bd/46/DV019_43115235_PERHx0WMIE3u2JHs_200x200.png, https://www.konsum-leipzig.de/media/image/e4/7c/fe/DV019_43115235_PERHx0WMIE3u2JHs_200x200@2x.png 2x",
+      "prize": "0,59 €",
+      "comPrize": 0.59
+    },
+    {
+      "name": "GUT&GÜNSTIG Fruchtquark mit Schokoraspeln...",
+      "img": "https://www.konsum-leipzig.de/media/image/55/63/46/DV019_43115228_PERWb28R36TIaHHH_200x200.png, https://www.konsum-leipzig.de/media/image/8c/82/9c/DV019_43115228_PERWb28R36TIaHHH_200x200@2x.png 2x",
+      "prize": "0,59 €",
+      "comPrize": 0.59
     },
     {
       "name": "GUT&GÜNSTIG Fruchtquark mit Schokoraspeln...",
@@ -10081,12 +10224,6 @@
       "comPrize": 1.69
     },
     {
-      "name": "GUT&GÜNSTIG Hähnchen-Brustfiletstücke Klassik...",
-      "img": "https://www.konsum-leipzig.de/media/image/6c/5f/e6/DV019_4311501438046_PERqjyGOmcKmyjwL_200x200.png, https://www.konsum-leipzig.de/media/image/6d/e1/8f/DV019_4311501438046_PERqjyGOmcKmyjwL_200x200@2x.png 2x",
-      "prize": "1,69 €",
-      "comPrize": 1.69
-    },
-    {
       "name": "GUT&GÜNSTIG Hähnchen-Keulen 1,1kg",
       "img": "https://www.konsum-leipzig.de/media/image/74/23/43/GUG_HAEHNCHENKEULEN_VOR_200x200.png",
       "prize": "2,99 €",
@@ -10127,6 +10264,12 @@
       "img": "https://www.konsum-leipzig.de/media/image/5c/4d/bd/DV019_4311501470558_PERIPbkG3QQNFIG2_200x200.png, https://www.konsum-leipzig.de/media/image/16/4a/f5/DV019_4311501470558_PERIPbkG3QQNFIG2_200x200@2x.png 2x",
       "prize": "1,99 €",
       "comPrize": 1.99
+    },
+    {
+      "name": "GUT&GÜNSTIG Hähnchenbrustfilet Klassik 150g QS",
+      "img": "https://www.konsum-leipzig.de/media/image/d0/de/e7/DV019_4311501438046_PERPklxLWaZvp8Un_200x200.png, https://www.konsum-leipzig.de/media/image/07/49/12/DV019_4311501438046_PERPklxLWaZvp8Un_200x200@2x.png 2x",
+      "prize": "1,69 €",
+      "comPrize": 1.69
     },
     {
       "name": "GUT&GÜNSTIG Hähnchenbrustfilet mit Paprika in...",
@@ -10203,8 +10346,8 @@
     {
       "name": "GUT&GÜNSTIG Hojiblanca Oliven geschwärzt,...",
       "img": "https://www.konsum-leipzig.de/media/image/e3/4b/93/DV019_4311501437544_PER_200x200.png, https://www.konsum-leipzig.de/media/image/1a/17/1a/DV019_4311501437544_PER_200x200@2x.png 2x",
-      "prize": "0,69 €",
-      "comPrize": 0.69
+      "prize": "0,79 €",
+      "comPrize": 0.79
     },
     {
       "name": "GUT&GÜNSTIG Holländischer Ziegenkäse in...",
@@ -10538,7 +10681,7 @@
     },
     {
       "name": "GUT&GÜNSTIG Käsebällchen 175g",
-      "img": "https://www.konsum-leipzig.de/media/image/fa/bc/11/DV019_4311501656853_PERV10JnWcKItWDW_200x200.png, https://www.konsum-leipzig.de/media/image/35/30/8b/DV019_4311501656853_PERV10JnWcKItWDW_200x200@2x.png 2x",
+      "img": "https://www.konsum-leipzig.de/media/image/ab/6d/c9/DV019_4311501381984_PERkQJZmtO1WtFQn_200x200.png, https://www.konsum-leipzig.de/media/image/73/6e/a4/DV019_4311501381984_PERkQJZmtO1WtFQn_200x200@2x.png 2x",
       "prize": "0,99 €",
       "comPrize": 0.99
     },
@@ -11108,15 +11251,33 @@
     },
     {
       "name": "GUT&GÜNSTIG Mineralwasser classic 1,5l DPG",
+      "img": "https://www.konsum-leipzig.de/media/image/0f/e5/bc/DV019_4311596435944_PERiDRZzCDrsZu1U_200x200.png, https://www.konsum-leipzig.de/media/image/9c/b5/98/DV019_4311596435944_PERiDRZzCDrsZu1U_200x200@2x.png 2x",
+      "prize": "0,19 €",
+      "comPrize": 0.19
+    },
+    {
+      "name": "GUT&GÜNSTIG Mineralwasser classic 1,5l DPG",
       "img": "https://www.konsum-leipzig.de/media/image/3b/86/bc/DV019_4311596435951_PERIRnAJvaFPf1km_200x200.png, https://www.konsum-leipzig.de/media/image/47/fe/6e/DV019_4311596435951_PERIRnAJvaFPf1km_200x200@2x.png 2x",
       "prize": "1,14 €",
       "comPrize": 1.14
     },
     {
       "name": "GUT&GÜNSTIG Mineralwasser medium 1,5l DPG",
+      "img": "https://www.konsum-leipzig.de/media/image/39/6f/fd/DV019_4311596435968_PERLsby3DWBBJpYy_200x200.png, https://www.konsum-leipzig.de/media/image/8b/d3/5f/DV019_4311596435968_PERLsby3DWBBJpYy_200x200@2x.png 2x",
+      "prize": "0,19 €",
+      "comPrize": 0.19
+    },
+    {
+      "name": "GUT&GÜNSTIG Mineralwasser medium 1,5l DPG",
       "img": "https://www.konsum-leipzig.de/media/image/ef/72/e2/DV019_4311596435975_PEROeNSAA6jWdUHL_200x200.png, https://www.konsum-leipzig.de/media/image/eb/f4/a9/DV019_4311596435975_PEROeNSAA6jWdUHL_200x200@2x.png 2x",
       "prize": "1,14 €",
       "comPrize": 1.14
+    },
+    {
+      "name": "GUT&GÜNSTIG Mineralwasser still 1,5l DPG",
+      "img": "https://www.konsum-leipzig.de/media/image/69/87/ee/DV019_4311596435982_PER2OmMD0cYnr5ME_200x200.png, https://www.konsum-leipzig.de/media/image/68/09/64/DV019_4311596435982_PER2OmMD0cYnr5ME_200x200@2x.png 2x",
+      "prize": "0,19 €",
+      "comPrize": 0.19
     },
     {
       "name": "GUT&GÜNSTIG Mineralwasser still 1,5l DPG",
@@ -11409,8 +11570,8 @@
     {
       "name": "GUT&GÜNSTIG Oliven grün entsteint 340g",
       "img": "https://www.konsum-leipzig.de/media/image/c6/4c/df/DV019_4311501437520_PER_200x200.png, https://www.konsum-leipzig.de/media/image/eb/5a/1b/DV019_4311501437520_PER_200x200@2x.png 2x",
-      "prize": "0,69 €",
-      "comPrize": 0.69
+      "prize": "0,79 €",
+      "comPrize": 0.79
     },
     {
       "name": "GUT&GÜNSTIG Oliven grün gefüllt mit...",
@@ -11429,6 +11590,12 @@
       "img": "https://www.konsum-leipzig.de/media/image/70/45/7c/DV019_4311596436101_PERPDSALpWPUYXt6_200x200.png, https://www.konsum-leipzig.de/media/image/0e/aa/1f/DV019_4311596436101_PERPDSALpWPUYXt6_200x200@2x.png 2x",
       "prize": "0,45 €",
       "comPrize": 0.45
+    },
+    {
+      "name": "GUT&GÜNSTIG Orangenlimonade Zero 1,5l DPG",
+      "img": "https://www.konsum-leipzig.de/media/image/b0/8c/fa/DV019_4311596460946_PERXqcfRtgKZft4g_200x200.png, https://www.konsum-leipzig.de/media/image/a7/af/e3/DV019_4311596460946_PERXqcfRtgKZft4g_200x200@2x.png 2x",
+      "prize": "2,34 €",
+      "comPrize": 2.34
     },
     {
       "name": "GUT&GÜNSTIG Orangenlimonade Zero 1,5l DPG",
@@ -12638,7 +12805,7 @@
     },
     {
       "name": "GUT&GÜNSTIG Stapelchips Sour Cream&Onion 175g",
-      "img": "https://www.konsum-leipzig.de/media/image/ac/d0/a1/DV019_4311501474600_PER3JxlryjWDwgAQ_200x200.png, https://www.konsum-leipzig.de/media/image/5a/9b/49/DV019_4311501474600_PER3JxlryjWDwgAQ_200x200@2x.png 2x",
+      "img": "https://www.konsum-leipzig.de/media/image/e1/87/07/DV019_4311501600436_PER_200x200.png, https://www.konsum-leipzig.de/media/image/67/15/0a/DV019_4311501600436_PER_200x200@2x.png 2x",
       "prize": "1,19 €",
       "comPrize": 1.19
     },
@@ -12881,6 +13048,12 @@
       "img": "https://www.konsum-leipzig.de/media/image/c0/15/f2/DV019_4311596455126_PER7HXBBkUuLfsew_200x200.png, https://www.konsum-leipzig.de/media/image/6a/02/af/DV019_4311596455126_PER7HXBBkUuLfsew_200x200@2x.png 2x",
       "prize": "0,99 €",
       "comPrize": 0.99
+    },
+    {
+      "name": "GUT&GÜNSTIG Tonic Water 1,5l DPG",
+      "img": "https://www.konsum-leipzig.de/media/image/0c/08/1b/DV019_4311501416402_PERRkEbX6lSvLfcJ_200x200.png, https://www.konsum-leipzig.de/media/image/c6/04/2f/DV019_4311501416402_PERRkEbX6lSvLfcJ_200x200@2x.png 2x",
+      "prize": "3,54 €",
+      "comPrize": 3.54
     },
     {
       "name": "GUT&GÜNSTIG Tonic Water 1,5l DPG",
@@ -13142,6 +13315,12 @@
     },
     {
       "name": "GUT&GÜNSTIG Wild Berry 1,5l DPG",
+      "img": "https://www.konsum-leipzig.de/media/image/d9/df/9a/DV019_4311501622292_PERbPQ11hZ3Ba3Rq_200x200.png, https://www.konsum-leipzig.de/media/image/73/55/c3/DV019_4311501622292_PERbPQ11hZ3Ba3Rq_200x200@2x.png 2x",
+      "prize": "3,54 €",
+      "comPrize": 3.54
+    },
+    {
+      "name": "GUT&GÜNSTIG Wild Berry 1,5l DPG",
       "img": "https://www.konsum-leipzig.de/media/image/9e/2b/64/DV019_4311501622285_PER357BcmWES8Kmv_200x200.png, https://www.konsum-leipzig.de/media/image/27/8c/37/DV019_4311501622285_PER357BcmWES8Kmv_200x200@2x.png 2x",
       "prize": "0,59 €",
       "comPrize": 0.59
@@ -13286,7 +13465,7 @@
     },
     {
       "name": "GUT&GÜNSTIGfettarmer Fruchtjoghurt 1,8% der...",
-      "img": "https://www.konsum-leipzig.de/media/image/18/69/39/DV019_43115273_PER_cvox31moHixgGW_200x200.png, https://www.konsum-leipzig.de/media/image/6d/99/4f/DV019_43115273_PER_cvox31moHixgGW_200x200@2x.png 2x",
+      "img": "https://www.konsum-leipzig.de/media/image/c1/ea/6c/DV019_43115273_PER_dgObBeFPSSYEPc_200x200.png, https://www.konsum-leipzig.de/media/image/93/38/1d/DV019_43115273_PER_dgObBeFPSSYEPc_200x200@2x.png 2x",
       "prize": "0,35 €",
       "comPrize": 0.35
     },
@@ -13310,7 +13489,19 @@
     },
     {
       "name": "GUTGÜNSTIG Fruchtquark Erdbeere 500g",
+      "img": "https://www.konsum-leipzig.de/media/image/9b/2c/1a/DV019_4311501441589_PERebaDk3piN6eKK_200x200.png, https://www.konsum-leipzig.de/media/image/11/6e/4f/DV019_4311501441589_PERebaDk3piN6eKK_200x200@2x.png 2x",
+      "prize": "0,99 €",
+      "comPrize": 0.99
+    },
+    {
+      "name": "GUTGÜNSTIG Fruchtquark Erdbeere 500g",
       "img": "https://www.konsum-leipzig.de/media/image/6c/6a/e7/DV019_4311501658734_PER_200x200.png, https://www.konsum-leipzig.de/media/image/02/14/d9/DV019_4311501658734_PER_200x200@2x.png 2x",
+      "prize": "0,99 €",
+      "comPrize": 0.99
+    },
+    {
+      "name": "GUTGÜNSTIG Fruchtquark Kirsche 500g",
+      "img": "https://www.konsum-leipzig.de/media/image/c3/ca/1f/DV019_4311501441596_PERibCVsH38MqEaq_200x200.png, https://www.konsum-leipzig.de/media/image/42/49/fa/DV019_4311501441596_PERibCVsH38MqEaq_200x200@2x.png 2x",
       "prize": "0,99 €",
       "comPrize": 0.99
     },
@@ -13778,6 +13969,12 @@
     },
     {
       "name": "Hasseröder Pils 0,5l MW",
+      "img": "https://www.konsum-leipzig.de/media/image/37/15/27/DV019_4014558126835_PERYfZGypKU0F6Ga_200x200.png, https://www.konsum-leipzig.de/media/image/59/0e/ca/DV019_4014558126835_PERYfZGypKU0F6Ga_200x200@2x.png 2x",
+      "prize": "13,99 €",
+      "comPrize": 13.99
+    },
+    {
+      "name": "Hasseröder Pils 0,5l MW",
       "img": "https://www.konsum-leipzig.de/media/image/0e/eb/b1/DV019_4014558326839_VORLd5JAom9Ojn6q_200x200.png, https://www.konsum-leipzig.de/media/image/df/23/31/DV019_4014558326839_VORLd5JAom9Ojn6q_200x200@2x.png 2x",
       "prize": "0,89 €",
       "comPrize": 0.89
@@ -14180,6 +14377,12 @@
     },
     {
       "name": "Holsten Pilsener 0,5l MW",
+      "img": "https://www.konsum-leipzig.de/media/image/c7/d4/26/DV019_40678146_VOR3jx1TEjhZwDf4_200x200.png, https://www.konsum-leipzig.de/media/image/56/05/49/DV019_40678146_VOR3jx1TEjhZwDf4_200x200@2x.png 2x",
+      "prize": "0,89 €",
+      "comPrize": 0.89
+    },
+    {
+      "name": "Holsten Pilsener 0,5l MW",
       "img": "https://www.konsum-leipzig.de/media/image/8c/37/a3/DV019_4067800001305_PER2xyZRDVrzFHM3_200x200.png, https://www.konsum-leipzig.de/media/image/69/1b/f8/DV019_4067800001305_PER2xyZRDVrzFHM3_200x200@2x.png 2x",
       "prize": "13,99 €",
       "comPrize": 13.99
@@ -14366,6 +14569,12 @@
     },
     {
       "name": "Ileburger Himbeerbrause 1l MW PET",
+      "img": "https://www.konsum-leipzig.de/media/image/61/1e/a7/DV019_4002627800786_VORU0MvFeytGom5N_200x200.png, https://www.konsum-leipzig.de/media/image/b4/cd/46/DV019_4002627800786_VORU0MvFeytGom5N_200x200@2x.png 2x",
+      "prize": "0,95 €",
+      "comPrize": 0.95
+    },
+    {
+      "name": "Ileburger Himbeerbrause 1l MW PET",
       "img": "https://www.konsum-leipzig.de/media/image/0c/16/g0/DV019_4002627000780_PERzoJExyb3xWqBa_200x200.png, https://www.konsum-leipzig.de/media/image/96/3f/87/DV019_4002627000780_PERzoJExyb3xWqBa_200x200@2x.png 2x",
       "prize": "8,99 €",
       "comPrize": 8.99
@@ -14375,6 +14584,12 @@
       "img": "https://www.konsum-leipzig.de/media/image/4d/6e/3a/DV019_4002627800557_VORbfthquSl9RxEO_200x200.png, https://www.konsum-leipzig.de/media/image/f4/c0/e1/DV019_4002627800557_VORbfthquSl9RxEO_200x200@2x.png 2x",
       "prize": "0,85 €",
       "comPrize": 0.85
+    },
+    {
+      "name": "Ileburger Sachsenquelle Aktiv1l MW",
+      "img": "",
+      "prize": "5,69 €",
+      "comPrize": 5.69
     },
     {
       "name": "Ileburger Sachsenquelle Aktiv1l MW",
@@ -14414,9 +14629,21 @@
     },
     {
       "name": "Ileburger Sachsenquelle Medium 1l MW PET",
+      "img": "https://www.konsum-leipzig.de/media/image/35/b6/2b/DV019_4002627001824_PERgfoJ6l4JnyZvb_200x200.png, https://www.konsum-leipzig.de/media/image/05/bb/c8/DV019_4002627001824_PERgfoJ6l4JnyZvb_200x200@2x.png 2x",
+      "prize": "5,69 €",
+      "comPrize": 5.69
+    },
+    {
+      "name": "Ileburger Sachsenquelle Medium 1l MW PET",
       "img": "https://www.konsum-leipzig.de/media/image/4e/2e/22/DV019_4002627801820_VORtVOwR1Zu6oexe_200x200.png, https://www.konsum-leipzig.de/media/image/5a/79/e5/DV019_4002627801820_VORtVOwR1Zu6oexe_200x200@2x.png 2x",
       "prize": "0,65 €",
       "comPrize": 0.65
+    },
+    {
+      "name": "Ileburger Sachsenquelle Naturelle 1l MW PET",
+      "img": "https://www.konsum-leipzig.de/media/image/13/44/0f/DV019_4002627002494_PERf7Ol1NQeLyGW0_200x200.png, https://www.konsum-leipzig.de/media/image/3a/34/e6/DV019_4002627002494_PERf7Ol1NQeLyGW0_200x200@2x.png 2x",
+      "prize": "5,69 €",
+      "comPrize": 5.69
     },
     {
       "name": "Ileburger Sachsenquelle Naturelle 1l MW PET",
@@ -14738,7 +14965,7 @@
     },
     {
       "name": "Jive mit Sekt & Holunderblüte0,75l",
-      "img": "https://www.konsum-leipzig.de/media/image/72/b7/1f/DV019_4002391794106_VOR0qgykDfrV9fdW_200x200.png, https://www.konsum-leipzig.de/media/image/94/61/fa/DV019_4002391794106_VOR0qgykDfrV9fdW_200x200@2x.png 2x",
+      "img": "https://www.konsum-leipzig.de/media/image/fd/20/77/DV019_4002391794106_VORuDLvmGmqQAvVE_200x200.png, https://www.konsum-leipzig.de/media/image/b2/f9/0b/DV019_4002391794106_VORuDLvmGmqQAvVE_200x200@2x.png 2x",
       "prize": "3,39 €",
       "comPrize": 3.39
     },
@@ -14831,6 +15058,12 @@
       "img": "https://www.konsum-leipzig.de/media/image/67/6d/a9/DV019_4051800117159_VORApcO4GPkTcOAt_200x200.png, https://www.konsum-leipzig.de/media/image/de/6e/2a/DV019_4051800117159_VORApcO4GPkTcOAt_200x200@2x.png 2x",
       "prize": "1,19 €",
       "comPrize": 1.19
+    },
+    {
+      "name": "Karlsberg Mixery Bier+Cola+X 0,5l MW",
+      "img": "https://www.konsum-leipzig.de/media/image/03/be/8e/DV019_4002631915902_PER35i9vYHUinRYw_200x200.png, https://www.konsum-leipzig.de/media/image/ab/ac/25/DV019_4002631915902_PER35i9vYHUinRYw_200x200@2x.png 2x",
+      "prize": "16,99 €",
+      "comPrize": 16.99
     },
     {
       "name": "Karlsberg Mixery Bier+Cola+X 0,5l MW",
@@ -15518,6 +15751,12 @@
     },
     {
       "name": "KöstritzerSchwarzbier 0,5l MW",
+      "img": "https://www.konsum-leipzig.de/media/image/e1/cf/23/DV019_4014964111555_VORzVNQ8UNvscp80_200x200.png, https://www.konsum-leipzig.de/media/image/18/2b/0b/DV019_4014964111555_VORzVNQ8UNvscp80_200x200@2x.png 2x",
+      "prize": "0,89 €",
+      "comPrize": 0.89
+    },
+    {
+      "name": "KöstritzerSchwarzbier 0,5l MW",
       "img": "https://www.konsum-leipzig.de/media/image/cf/c1/af/DV019_4014964111593_PERHp6n9kKqouSPl_200x200.png, https://www.konsum-leipzig.de/media/image/ea/0f/0a/DV019_4014964111593_PERHp6n9kKqouSPl_200x200@2x.png 2x",
       "prize": "14,99 €",
       "comPrize": 14.99
@@ -15643,7 +15882,7 @@
       "comPrize": 0.99
     },
     {
-      "name": "Küchle Backoblaten Rund 50mm 100ST 37g",
+      "name": "Küchle Backoblaten Rund 50mm 37g",
       "img": "https://www.konsum-leipzig.de/media/image/c7/01/60/DV019_4035600210500_VORdDOtAPKFOMHzW_200x200.png, https://www.konsum-leipzig.de/media/image/2a/a8/1d/DV019_4035600210500_VORdDOtAPKFOMHzW_200x200@2x.png 2x",
       "prize": "0,79 €",
       "comPrize": 0.79
@@ -16058,6 +16297,12 @@
     },
     {
       "name": "Lausitzer Porter Schwarzes 0,5l MW",
+      "img": "https://www.konsum-leipzig.de/media/image/8c/7e/a9/DV019_4018588003302_PERBgId5rwepSDz5_200x200.png, https://www.konsum-leipzig.de/media/image/23/91/d9/DV019_4018588003302_PERBgId5rwepSDz5_200x200@2x.png 2x",
+      "prize": "0,85 €",
+      "comPrize": 0.85
+    },
+    {
+      "name": "Lausitzer Porter Schwarzes 0,5l MW",
       "img": "https://www.konsum-leipzig.de/media/image/43/df/76/DV019_4018588093303_PERqPLWMTIkTjkpG_200x200.png, https://www.konsum-leipzig.de/media/image/8a/56/37/DV019_4018588093303_PERqPLWMTIkTjkpG_200x200@2x.png 2x",
       "prize": "13,99 €",
       "comPrize": 13.99
@@ -16262,6 +16507,12 @@
     },
     {
       "name": "Lichtenauer Medium 1l MW PET",
+      "img": "https://www.konsum-leipzig.de/media/image/65/74/82/DV019_4013256998300_PERD1GpazAUMWjeo_200x200.png, https://www.konsum-leipzig.de/media/image/c9/28/81/DV019_4013256998300_PERD1GpazAUMWjeo_200x200@2x.png 2x",
+      "prize": "6,99 €",
+      "comPrize": 6.99
+    },
+    {
+      "name": "Lichtenauer Medium 1l MW PET",
       "img": "https://www.konsum-leipzig.de/media/image/cc/e5/21/DV019_4013256010941_VORiQRYrl5AsITYd_200x200.png, https://www.konsum-leipzig.de/media/image/f8/52/4d/DV019_4013256010941_VORiQRYrl5AsITYd_200x200@2x.png 2x",
       "prize": "0,69 €",
       "comPrize": 0.69
@@ -16283,6 +16534,12 @@
       "img": "https://www.konsum-leipzig.de/media/image/31/58/ff/lichtenuer_pur_glas_10012617_200x200.png",
       "prize": "4,99 €",
       "comPrize": 4.99
+    },
+    {
+      "name": "Lichtenauer Spritzig 1l MW PET",
+      "img": "https://www.konsum-leipzig.de/media/image/b1/5c/a1/DV019_4013256998355_PERU0OJyPak99JMU_200x200.png, https://www.konsum-leipzig.de/media/image/ea/61/48/DV019_4013256998355_PERU0OJyPak99JMU_200x200@2x.png 2x",
+      "prize": "6,99 €",
+      "comPrize": 6.99
     },
     {
       "name": "Lichtenauer Spritzig 1l MW PET",
@@ -16515,6 +16772,12 @@
     {
       "name": "Maggi 5 Minuten Terrine Gulaschtopf 57g",
       "img": "https://www.konsum-leipzig.de/media/image/e1/f4/f1/DV019_7613035587427_PERzdtGunE4q6g8r_200x200.png, https://www.konsum-leipzig.de/media/image/83/41/4a/DV019_7613035587427_PERzdtGunE4q6g8r_200x200@2x.png 2x",
+      "prize": "1,19 €",
+      "comPrize": 1.19
+    },
+    {
+      "name": "Maggi 5 Minuten Terrine Kartoffelbrei mit...",
+      "img": "https://www.konsum-leipzig.de/media/image/0f/e3/0b/DV019_7613035509092_PERwJqnyMPfzIAhd_200x200.png, https://www.konsum-leipzig.de/media/image/18/c3/07/DV019_7613035509092_PERwJqnyMPfzIAhd_200x200@2x.png 2x",
       "prize": "1,19 €",
       "comPrize": 1.19
     },
@@ -16772,6 +17035,12 @@
     },
     {
       "name": "Margon Bitter Lemon 1l MW PET",
+      "img": "https://www.konsum-leipzig.de/media/image/e0/10/70/DV019_4105460000266_VORMar5mbIxIDyiH_200x200.png, https://www.konsum-leipzig.de/media/image/6c/54/35/DV019_4105460000266_VORMar5mbIxIDyiH_200x200@2x.png 2x",
+      "prize": "0,99 €",
+      "comPrize": 0.99
+    },
+    {
+      "name": "Margon Bitter Lemon 1l MW PET",
       "img": "https://www.konsum-leipzig.de/media/image/c5/54/a5/DV019_4105460304135_PER_200x200.png, https://www.konsum-leipzig.de/media/image/10/87/c5/DV019_4105460304135_PER_200x200@2x.png 2x",
       "prize": "8,99 €",
       "comPrize": 8.99
@@ -16781,6 +17050,12 @@
       "img": "https://www.konsum-leipzig.de/media/image/e0/25/f7/4982_1_print_200x200.png",
       "prize": "0,59 €",
       "comPrize": 0.59
+    },
+    {
+      "name": "Margon Ginger Ale 1l MW PET",
+      "img": "https://www.konsum-leipzig.de/media/image/75/1f/29/DV019_4105460000280_VORlu7yGuSF40tgz_200x200.png, https://www.konsum-leipzig.de/media/image/67/0c/7c/DV019_4105460000280_VORlu7yGuSF40tgz_200x200@2x.png 2x",
+      "prize": "0,99 €",
+      "comPrize": 0.99
     },
     {
       "name": "Margon Ginger Ale 1l MW PET",
@@ -16817,6 +17092,12 @@
       "img": "https://www.konsum-leipzig.de/media/image/d4/73/82/Margon-still_200x200.jpg",
       "prize": "0,59 €",
       "comPrize": 0.59
+    },
+    {
+      "name": "Margon Tonic Water 1l MW PET",
+      "img": "https://www.konsum-leipzig.de/media/image/af/93/6b/DV019_4105460303893_PER_200x200.png, https://www.konsum-leipzig.de/media/image/af/74/33/DV019_4105460303893_PER_200x200@2x.png 2x",
+      "prize": "8,99 €",
+      "comPrize": 8.99
     },
     {
       "name": "Margon Tonic Water 1l MW PET",
@@ -18939,8 +19220,8 @@
     {
       "name": "Nordbrand Nordhausen Pfefferminzlikör 18% 0,35l",
       "img": "https://www.konsum-leipzig.de/media/image/9b/c7/6c/DV019_4400065403208_VORxoTqyoDs5RpFm_200x200.png, https://www.konsum-leipzig.de/media/image/1d/4c/3f/DV019_4400065403208_VORxoTqyoDs5RpFm_200x200@2x.png 2x",
-      "prize": "2,79 €",
-      "comPrize": 2.79
+      "prize": "2,99 €",
+      "comPrize": 2.99
     },
     {
       "name": "Nordbrand Nordhausen Pfefferminzlikör 18% 0,7l",
@@ -19634,6 +19915,12 @@
     },
     {
       "name": "Pilsner Urquell 0,5l MW",
+      "img": "https://www.konsum-leipzig.de/media/image/c5/c7/c5/DV019_8594404110110_VORii3R1SOeZm683_200x200.png, https://www.konsum-leipzig.de/media/image/04/d8/9b/DV019_8594404110110_VORii3R1SOeZm683_200x200@2x.png 2x",
+      "prize": "1,09 €",
+      "comPrize": 1.09
+    },
+    {
+      "name": "Pilsner Urquell 0,5l MW",
       "img": "https://www.konsum-leipzig.de/media/image/8d/c0/d8/DV019_8594404000480_PERJ2e6abGFU8Wcd_200x200.png, https://www.konsum-leipzig.de/media/image/01/ef/e4/DV019_8594404000480_PERJ2e6abGFU8Wcd_200x200@2x.png 2x",
       "prize": "18,99 €",
       "comPrize": 18.99
@@ -19910,6 +20197,12 @@
     },
     {
       "name": "Radeberger Pilsner 0,5l MW",
+      "img": "https://www.konsum-leipzig.de/media/image/b3/49/0d/DV019_4014388002026_PERdCydKVwxcETr4_200x200.png, https://www.konsum-leipzig.de/media/image/a2/c9/9a/DV019_4014388002026_PERdCydKVwxcETr4_200x200@2x.png 2x",
+      "prize": "14,79 €",
+      "comPrize": 14.79
+    },
+    {
+      "name": "Radeberger Pilsner 0,5l MW",
       "img": "https://www.konsum-leipzig.de/media/image/47/09/c6/DV019_4014388001036_VORqeTW7lasUmGza_200x200.png, https://www.konsum-leipzig.de/media/image/50/be/c5/DV019_4014388001036_VORqeTW7lasUmGza_200x200@2x.png 2x",
       "prize": "0,89 €",
       "comPrize": 0.89
@@ -20151,8 +20444,8 @@
     {
       "name": "Rispentomaten",
       "img": "https://www.konsum-leipzig.de/media/image/63/42/6e/Rispentomaten_200x200.jpg",
-      "prize": "2,99 €",
-      "comPrize": 2.99
+      "prize": "3,99 €",
+      "comPrize": 3.99
     },
     {
       "name": "Ritter Sport Alpenmilch Schokolade 100g",
@@ -20690,6 +20983,12 @@
     },
     {
       "name": "Sachsenmilch Unser Joghurt & Zetti...",
+      "img": "https://www.konsum-leipzig.de/media/image/90/3f/5b/3330578005_1_print_200x200.png",
+      "prize": "0,69 €",
+      "comPrize": 0.69
+    },
+    {
+      "name": "Sachsenmilch Unser Joghurt & Zetti...",
       "img": "https://www.konsum-leipzig.de/media/image/35/b2/e7/3323936009_1_print_200x200.png",
       "prize": "0,69 €",
       "comPrize": 0.69
@@ -20762,9 +21061,21 @@
     },
     {
       "name": "Sachsenobst Orangensaft 1l MW",
+      "img": "https://www.konsum-leipzig.de/media/image/29/38/50/DV019_4016895076125_PER_200x200.png, https://www.konsum-leipzig.de/media/image/ac/dc/5b/DV019_4016895076125_PER_200x200@2x.png 2x",
+      "prize": "11,94 €",
+      "comPrize": 11.94
+    },
+    {
+      "name": "Sachsenobst Orangensaft 1l MW",
       "img": "https://www.konsum-leipzig.de/media/image/6a/1c/fb/DV019_4016895006122_VORzsZXgInuJ510z_200x200.png, https://www.konsum-leipzig.de/media/image/d3/e3/f5/DV019_4016895006122_VORzsZXgInuJ510z_200x200@2x.png 2x",
       "prize": "1,99 €",
       "comPrize": 1.99
+    },
+    {
+      "name": "Sachsenobst Schwarzer Johannisbeernektar 1l MW",
+      "img": "https://www.konsum-leipzig.de/media/image/79/0f/ca/DV019_4016895006245_VORPO8J1kphMBl9m_200x200.png, https://www.konsum-leipzig.de/media/image/b3/ff/d4/DV019_4016895006245_VORPO8J1kphMBl9m_200x200@2x.png 2x",
+      "prize": "2,29 €",
+      "comPrize": 2.29
     },
     {
       "name": "Sachsenobst Schwarzer Johannisbeernektar 1l MW",
@@ -21674,9 +21985,21 @@
     },
     {
       "name": "Sprite 1l MW PET",
+      "img": "https://www.konsum-leipzig.de/media/image/5a/a6/83/DV019_5449000017932_VORcYkjaZY2Smt14_200x200.png, https://www.konsum-leipzig.de/media/image/c9/fe/c9/DV019_5449000017932_VORcYkjaZY2Smt14_200x200@2x.png 2x",
+      "prize": "1,19 €",
+      "comPrize": 1.19
+    },
+    {
+      "name": "Sprite 1l MW PET",
       "img": "https://www.konsum-leipzig.de/media/image/a1/30/b6/DV019_5449000018014_PERt3NbGWVWuiHpZ_200x200.png, https://www.konsum-leipzig.de/media/image/55/8e/29/DV019_5449000018014_PERt3NbGWVWuiHpZ_200x200@2x.png 2x",
       "prize": "12,48 €",
       "comPrize": 12.48
+    },
+    {
+      "name": "St.Fachingen Medium 0,75l MW",
+      "img": "https://www.konsum-leipzig.de/media/image/0f/de/ea/DV019_4101090000638_VORcLpn1YI5G6cg3_200x200.png, https://www.konsum-leipzig.de/media/image/b5/b3/fe/DV019_4101090000638_VORcLpn1YI5G6cg3_200x200@2x.png 2x",
+      "prize": "0,89 €",
+      "comPrize": 0.89
     },
     {
       "name": "St.Fachingen Medium 0,75l MW",
@@ -21707,6 +22030,12 @@
       "img": "https://www.konsum-leipzig.de/media/image/43/86/bc/DV019_4101430003398_PERFfTaWGvNayhKP_200x200.png, https://www.konsum-leipzig.de/media/image/de/93/20/DV019_4101430003398_PERFfTaWGvNayhKP_200x200@2x.png 2x",
       "prize": "1,39 €",
       "comPrize": 1.39
+    },
+    {
+      "name": "Staatl.Fachingen Still 0,75l MW",
+      "img": "https://www.konsum-leipzig.de/media/image/4a/93/47/DV019_4101090000607_VORidw57NhozFyYD_200x200.png, https://www.konsum-leipzig.de/media/image/89/3f/53/DV019_4101090000607_VORidw57NhozFyYD_200x200@2x.png 2x",
+      "prize": "0,89 €",
+      "comPrize": 0.89
     },
     {
       "name": "Staatl.Fachingen Still 0,75l MW",
@@ -21752,7 +22081,19 @@
     },
     {
       "name": "Sternburg Export 0,5l MW",
+      "img": "https://www.konsum-leipzig.de/media/image/0d/33/b9/DV019_4105770000161_PER3rJbPY4N7kJSW_200x200.png, https://www.konsum-leipzig.de/media/image/9f/2c/48/DV019_4105770000161_PER3rJbPY4N7kJSW_200x200@2x.png 2x",
+      "prize": "7,79 €",
+      "comPrize": 7.79
+    },
+    {
+      "name": "Sternburg Export 0,5l MW",
       "img": "https://www.konsum-leipzig.de/media/image/e3/72/11/DV019_41057759_VORSyOLbTdWo585F_200x200.png, https://www.konsum-leipzig.de/media/image/69/fe/d1/DV019_41057759_VORSyOLbTdWo585F_200x200@2x.png 2x",
+      "prize": "0,49 €",
+      "comPrize": 0.49
+    },
+    {
+      "name": "Sternburg Pilsener 0,5l MW",
+      "img": "https://www.konsum-leipzig.de/media/image/f7/3b/58/DV019_41057704_VORj60bmhbthEWEN_200x200.png, https://www.konsum-leipzig.de/media/image/a8/3f/6c/DV019_41057704_VORj60bmhbthEWEN_200x200@2x.png 2x",
       "prize": "0,49 €",
       "comPrize": 0.49
     },
@@ -21905,6 +22246,12 @@
       "img": "https://www.konsum-leipzig.de/media/image/08/a3/4d/Suppengr-n_200x200.png",
       "prize": "1,29 €",
       "comPrize": 1.29
+    },
+    {
+      "name": "Suppengrün 800g",
+      "img": "https://www.konsum-leipzig.de/media/image/08/a3/4d/Suppengr-n_200x200.png",
+      "prize": "1,79 €",
+      "comPrize": 1.79
     },
     {
       "name": "Suppengrün 800g",
@@ -22473,8 +22820,8 @@
     {
       "name": "TURMQUELL PILSENER KASTEN",
       "img": "https://www.konsum-leipzig.de/media/image/91/ec/ff/7661_2_print_200x200.jpg",
-      "prize": "5,99 €",
-      "comPrize": 5.99
+      "prize": "6,89 €",
+      "comPrize": 6.89
     },
     {
       "name": "Twix 6x50g",
@@ -22565,6 +22912,12 @@
       "img": "https://www.konsum-leipzig.de/media/image/73/e8/4d/DV019_4053400078700_PER19jT1WC0QDRL4_200x200.png, https://www.konsum-leipzig.de/media/image/3f/78/c6/DV019_4053400078700_PER19jT1WC0QDRL4_200x200@2x.png 2x",
       "prize": "3,79 €",
       "comPrize": 3.79
+    },
+    {
+      "name": "Ur-Krostitzer Pilsner 0,5l MW",
+      "img": "https://www.konsum-leipzig.de/media/image/0b/0e/d0/DV019_41058145_VORqhZGHN7zAZgH9_200x200.png, https://www.konsum-leipzig.de/media/image/d7/fb/af/DV019_41058145_VORqhZGHN7zAZgH9_200x200@2x.png 2x",
+      "prize": "0,85 €",
+      "comPrize": 0.85
     },
     {
       "name": "Ur-Krostitzer Pilsner 0,5l MW",
@@ -22700,6 +23053,12 @@
     },
     {
       "name": "Vita Cola 1l MW PET",
+      "img": "https://www.konsum-leipzig.de/media/image/2d/93/90/DV019_4013595054149_VORsxFrpDEC2hGSD_200x200.png, https://www.konsum-leipzig.de/media/image/fc/6d/3c/DV019_4013595054149_VORsxFrpDEC2hGSD_200x200@2x.png 2x",
+      "prize": "0,99 €",
+      "comPrize": 0.99
+    },
+    {
+      "name": "Vita Cola 1l MW PET",
       "img": "https://www.konsum-leipzig.de/media/image/c0/6d/3f/DV019_4013595004144_PERg3od5hg0jEuG5_200x200.png, https://www.konsum-leipzig.de/media/image/92/9e/55/DV019_4013595004144_PERg3od5hg0jEuG5_200x200@2x.png 2x",
       "prize": "8,99 €",
       "comPrize": 8.99
@@ -22790,15 +23149,33 @@
     },
     {
       "name": "Volvic Apfel 1,5l DPG",
+      "img": "https://www.konsum-leipzig.de/media/image/0e/02/dd/DV019_3057640348778_PER_200x200.png, https://www.konsum-leipzig.de/media/image/fe/7d/d6/DV019_3057640348778_PER_200x200@2x.png 2x",
+      "prize": "9,29 €",
+      "comPrize": 9.29
+    },
+    {
+      "name": "Volvic Apfel 1,5l DPG",
       "img": "https://www.konsum-leipzig.de/media/image/ce/c4/af/DV019_3057640348693_VORUBa6DnkA98N8B_200x200.png, https://www.konsum-leipzig.de/media/image/3e/51/5e/DV019_3057640348693_VORUBa6DnkA98N8B_200x200@2x.png 2x",
       "prize": "1,59 €",
       "comPrize": 1.59
     },
     {
       "name": "Volvic Grüner Tee Granatapfel 1,5l DPG",
+      "img": "https://www.konsum-leipzig.de/media/image/ed/49/4e/DV019_4005720003535_PER_200x200.png, https://www.konsum-leipzig.de/media/image/47/08/98/DV019_4005720003535_PER_200x200@2x.png 2x",
+      "prize": "9,29 €",
+      "comPrize": 9.29
+    },
+    {
+      "name": "Volvic Grüner Tee Granatapfel 1,5l DPG",
       "img": "https://www.konsum-leipzig.de/media/image/a2/95/05/DV019_3057640436703_VORMqfOPVKYRaFzV_200x200.png, https://www.konsum-leipzig.de/media/image/6b/7f/0c/DV019_3057640436703_VORMqfOPVKYRaFzV_200x200@2x.png 2x",
       "prize": "1,59 €",
       "comPrize": 1.59
+    },
+    {
+      "name": "Volvic Grüner Tee Minze 1,5l DPG",
+      "img": "https://www.konsum-leipzig.de/media/image/b3/e1/7f/DV019_4005720004112_VOR_200x200.png, https://www.konsum-leipzig.de/media/image/6c/4a/aa/DV019_4005720004112_VOR_200x200@2x.png 2x",
+      "prize": "9,29 €",
+      "comPrize": 9.29
     },
     {
       "name": "Volvic Grüner Tee Minze 1,5l DPG",
@@ -22850,9 +23227,21 @@
     },
     {
       "name": "Volvic Rote Früchte 1,5l DPG",
+      "img": "https://www.konsum-leipzig.de/media/image/ce/96/42/DV019_3057640349003_VORxfntjIaCL2EHM_200x200.png, https://www.konsum-leipzig.de/media/image/17/22/11/DV019_3057640349003_VORxfntjIaCL2EHM_200x200@2x.png 2x",
+      "prize": "9,29 €",
+      "comPrize": 9.29
+    },
+    {
+      "name": "Volvic Rote Früchte 1,5l DPG",
       "img": "https://www.konsum-leipzig.de/media/image/05/d8/fc/DV019_3057640348938_VORAFpVZpWGLnIug_200x200.png, https://www.konsum-leipzig.de/media/image/83/3e/b8/DV019_3057640348938_VORAFpVZpWGLnIug_200x200@2x.png 2x",
       "prize": "1,59 €",
       "comPrize": 1.59
+    },
+    {
+      "name": "Volvic Tee creation Pfirsich 1,5l DPG",
+      "img": "https://www.konsum-leipzig.de/media/image/a6/95/68/DV019_3057640349348_PER3ycdEoW33YDQQ_200x200.png, https://www.konsum-leipzig.de/media/image/a6/52/3d/DV019_3057640349348_PER3ycdEoW33YDQQ_200x200@2x.png 2x",
+      "prize": "9,29 €",
+      "comPrize": 9.29
     },
     {
       "name": "Volvic Tee creation Pfirsich 1,5l DPG",
@@ -22862,9 +23251,21 @@
     },
     {
       "name": "Volvic Tee creation Zitrone 1,5l DPG",
+      "img": "https://www.konsum-leipzig.de/media/image/g0/c6/e3/DV019_3057640349683_PERl0MYl35S0pUA2_200x200.png, https://www.konsum-leipzig.de/media/image/d0/56/45/DV019_3057640349683_PERl0MYl35S0pUA2_200x200@2x.png 2x",
+      "prize": "9,29 €",
+      "comPrize": 9.29
+    },
+    {
+      "name": "Volvic Tee creation Zitrone 1,5l DPG",
       "img": "https://www.konsum-leipzig.de/media/image/1b/24/14/DV019_3057640349508_VORRhJ0YNDLLrYJq_200x200.png, https://www.konsum-leipzig.de/media/image/dd/6e/5d/DV019_3057640349508_VORRhJ0YNDLLrYJq_200x200@2x.png 2x",
       "prize": "1,59 €",
       "comPrize": 1.59
+    },
+    {
+      "name": "Volvic Touch Pfirsich 1,5l DPG",
+      "img": "https://www.konsum-leipzig.de/media/image/d3/13/ee/DV019_4005720004044_VOR1GJx7PKMFgG5A_200x200.png, https://www.konsum-leipzig.de/media/image/59/d2/92/DV019_4005720004044_VOR1GJx7PKMFgG5A_200x200@2x.png 2x",
+      "prize": "9,29 €",
+      "comPrize": 9.29
     },
     {
       "name": "Volvic Touch Pfirsich 1,5l DPG",
@@ -22883,6 +23284,12 @@
       "img": "https://www.konsum-leipzig.de/media/image/2b/fc/01/DV019_3057640424403_VORdDsxZPQOG779g_200x200.png, https://www.konsum-leipzig.de/media/image/e3/12/43/DV019_3057640424403_VORdDsxZPQOG779g_200x200@2x.png 2x",
       "prize": "1,59 €",
       "comPrize": 1.59
+    },
+    {
+      "name": "Volvic Zitrone Limette 1,5l DPG",
+      "img": "https://www.konsum-leipzig.de/media/image/4c/29/03/DV019_3057640348198_PER_200x200.png, https://www.konsum-leipzig.de/media/image/47/13/21/DV019_3057640348198_PER_200x200@2x.png 2x",
+      "prize": "9,29 €",
+      "comPrize": 9.29
     },
     {
       "name": "Volvic Zitrone Limette 1,5l DPG",
@@ -22940,13 +23347,13 @@
     },
     {
       "name": "Wagner Flammkuchen Käse-Lauch320g",
-      "img": "https://www.konsum-leipzig.de/media/image/36/89/4a/DV019_4009233003402_PERgmmFkSK5JqqdP_200x200.png, https://www.konsum-leipzig.de/media/image/69/7a/ba/DV019_4009233003402_PERgmmFkSK5JqqdP_200x200@2x.png 2x",
+      "img": "https://www.konsum-leipzig.de/media/image/b7/20/ee/DV019_4009233003402_PERyWVTlQmKLGOcI_200x200.png, https://www.konsum-leipzig.de/media/image/ac/aa/6a/DV019_4009233003402_PERyWVTlQmKLGOcI_200x200@2x.png 2x",
       "prize": "2,49 €",
       "comPrize": 2.49
     },
     {
       "name": "Wagner Flammkuchen Unser Original 300g",
-      "img": "https://www.konsum-leipzig.de/media/image/8e/50/29/DV019_4009233003686_VORvGONFgsdyWIjg_200x200.png, https://www.konsum-leipzig.de/media/image/a7/fa/69/DV019_4009233003686_VORvGONFgsdyWIjg_200x200@2x.png 2x",
+      "img": "https://www.konsum-leipzig.de/media/image/5b/a7/d2/DV019_4009233003686_PER_200x200.png, https://www.konsum-leipzig.de/media/image/14/04/a2/DV019_4009233003686_PER_200x200@2x.png 2x",
       "prize": "2,49 €",
       "comPrize": 2.49
     },
@@ -23225,6 +23632,12 @@
       "img": "https://www.konsum-leipzig.de/media/image/29/9b/b8/DV019_4015444000307_VORhWLa41ThqbF7N_200x200.png, https://www.konsum-leipzig.de/media/image/82/b3/2c/DV019_4015444000307_VORhWLa41ThqbF7N_200x200@2x.png 2x",
       "prize": "0,99 €",
       "comPrize": 0.99
+    },
+    {
+      "name": "Wernesgrüner Pils 0,5l MW",
+      "img": "https://www.konsum-leipzig.de/media/image/77/49/31/DV019_4015444001014_PEReQ0N9rFduTcAw_200x200.png, https://www.konsum-leipzig.de/media/image/75/94/76/DV019_4015444001014_PEReQ0N9rFduTcAw_200x200@2x.png 2x",
+      "prize": "14,99 €",
+      "comPrize": 14.99
     },
     {
       "name": "Wernesgrüner Pils 0,5l MW",
@@ -23618,7 +24031,7 @@
     },
     {
       "name": "Zewa Wisch&Weg Original 4x45BL",
-      "img": "",
+      "img": "https://www.konsum-leipzig.de/media/image/8a/a2/73/DV019_7322540973297_VOR0oxxjbmfvdGK8_200x200.png, https://www.konsum-leipzig.de/media/image/ec/f4/a7/DV019_7322540973297_VOR0oxxjbmfvdGK8_200x200@2x.png 2x",
       "prize": "2,39 €",
       "comPrize": 2.39
     },

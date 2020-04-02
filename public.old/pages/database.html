@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="/main.css">
+  <link rel="shortcut icon" href="/favicon.png" type="image/png">
+  <title>Produkte | Lieferservice-Markkleeberg.de</title>
+  <script>
+    function updateCart() {
+      let list = (JSON.parse(localStorage.getItem('order'))) ? JSON.parse(localStorage.getItem('order')) : [];
+      document.querySelector('.amount').textContent = list.length;
+      if (list.length < 1) document.querySelector('#place-order-button').style.display = 'none';
+      else document.querySelector('#place-order-button').style.display = 'block';
+    }
+
+    function entry(id, name, img, prize, comPrize) {
+      let list = JSON.parse(localStorage.getItem('order')) || [];
+      let item = {
+        id: id,
+        name: name,
+        img: img,
+        prize: prize,
+        comPrize: comPrize
+      }
+      list.push(item);
+      localStorage.setItem('order', JSON.stringify(list));
+      updateCart();
+    }
+
+    function vincrement() {
+      var value = parseInt(document.querySelector('#page').textContent);
+      if (value < 4000) value++;
+      document.querySelector('#page').textContent = value;
+      updateDatabase();
+      window.scrollBy('px', document.querySelector('.settings').getBoundingClientRect().y);
+    }
+
+    function vdecrement() {
+      var value = parseInt(document.querySelector('#page').textContent);
+      if (value > 1) value--;
+      document.querySelector('#page').textContent = value;
+      updateDatabase();
+      window.scrollBy('px', document.querySelector('.settings').getBoundingClientRect().y);
+    }
+
+    function showCart() {
+      updateCart();
+      var orderItems = document.querySelector('#cart-products');
+      var products = (JSON.parse(localStorage.getItem('order'))) ? JSON.parse(localStorage.getItem('order')) : [];
+      orderItems.innerHTML = '';
+      for (let {
+          id,
+          name,
+          img,
+          prize,
+          comPrize
+        } of products) {
+        orderItems.innerHTML += `<div class="product" id="${id}">
+                                  <img srcset="${img}" />
+                                  <p class="name">${name}</p>
+                                  <p class="prize">${prize} <span onclick="javascript: entry('${id}','${name}','${img}','${prize}','${comPrize}'); showCart()">+</span> <span class="remover" onclick="remove('${id}')">-</span></p>
+                                </div>`;
+      }
+      if (products.length == 0) {
+        orderItems.innerHTML = '<p>Noch keine Produkte im Einkaufswagen</p>';
+      }
+      //show cart
+      document.querySelector('.intCart').style.display = 'block';
+      document.body.style.overflow = "hidden";
+    }
+
+    function hideCart() {
+      //hide cart
+      document.querySelector('.intCart').style.display = 'none';
+      document.body.style.overflow = "auto";
+    }
+
+    function remove(id) {
+      var order = JSON.parse(localStorage.getItem('order'));
+      var products = document.querySelector('#cart-products').children;
+      for (let product of products)
+        if (product.getAttribute('id') == id) product.remove();
+      for (let i = 0; i < order.length; i++)
+        if (order[i].id == id) order.splice(i, 1);
+      localStorage.setItem('order', JSON.stringify(order));
+      updateCart();
+    }
+
+    function placeOrder() {
+      var order = JSON.parse(localStorage.getItem('order'));
+      fetch('/placeOrder', {
+        post: 'POST',
+        headers: {
+          'Content-Type': 'applicationn/json'
+        },
+        body: JSON.stringify(order)
+      })
+    }
+  </script>
+</head>
+
+<body>
+  <main>
+    <section>
+      <h1>Produktauswahl</h1>
+    </section>
+  </main>
+  <section>
+    <h2>Register unserer Produkte</h2>
+  </section>
+  <section>
+    <p>Dies ist die Datenbank aller Produkte, die unsere Märkte anbieten. Bitte beachten Sie, dass neue Produkte
+      eventuell etwas Zeit brauchen um in die Datenbank aufgenommen zu werden. Diese Datenbank zeigt alle Produkte, die
+      von unseren Märkten abgeboten werden, weshalb manchen eventuell nicht verfügbar sind, aber in der Datenbank
+      aufgeführt sind.</p>
+  </section>
+  <section class="database">
+    <div class="settings">
+      <form action="javascript: updateDatabase()">
+        <label for="page">Seite: </label>
+        <button id="decrement" onclick="vdecrement()" class="arrow">&lt;</button>
+        <p id="page" contenteditable="true">1</p>
+        <button id="increment" onclick="vincrement()" class="arrow">&gt;</button>
+        <label for="search">Suchen: </label>
+        <input type="text" id="search">
+        <input type="submit" value="aktualisieren">
+        <div class="cart" onclick="showCart()">
+          <img src="/trolley.svg" alt="shopping cart">
+          <div>
+            <p class="amount">0</p>
+          </div>
+        </div>
+      </form>
+    </div>
+    <div class="items">
+
+    </div>
+    <div class="intCart">
+      <div class="orders">
+        <h2 onclick="hideCart()" id="cart-close">×</h2>
+        <h2>Ihr Einkaufswagen</h2>
+        <p>Hier sehen Sie die Produkte, die Sie ihrem Einkaufswagen hinzugefügt haben. Mit der Auswahl "Alternative
+          zulassen" legen Sie für das jeweilige Produkt fest, ob vom Lieferanten eine Alternative ausgewählt werden
+          darf, falls das bestellte Produkt nicht verfügbar ist. Der Lieferant würde den von Ihnen festgelegten,
+          maximalen Preis beachten. Andernfalls wird das Produkt nicht geliefert und Sie erhalten das Geld zurück.</p>
+        <h3>Produkte</h3>
+        <div id="cart-products">
+
+        </div>
+        <button id="place-order-button" onclick="placeOrder()">Zur Bezahlung</button>
+      </div>
+    </div>
+  </section>
+  <footer>
+    <p class="copyright">Copyright © 2020 <br> lieferservice-markkleeberg.de</p>
+    <ul>
+      <li><a href="/index.html">Start</a></li>
+      <li><a href="/pages/database.html">Produktauswahl</a></li>
+      <li><a href="/pages/datenschutzerklärung.html">Datenschutzerklärung</a></li>
+      <li><a href="/pages/impressum.html">Impressum</a></li>
+      <li><a href="/pages/agb.html">AGB</a></li>
+      <li class="last"><a href="/pages/haftungsausschluss.html">Haftungsausschluss</a></li>
+    </ul>
+  </footer>
+  <script defer>
+    document.querySelector('#page').innerHTML = 1;
+
+    async function updateDatabase() {
+      var page = document.querySelector('#page').textContent;
+      var start = (page - 1) * 21;
+      var end = start + 21;
+      var search = document.querySelector('#search').value;
+      var raw = await fetch(window.location.origin + `/retrieveProducts?start=${start}&end=${end}&search=${search}`);
+      var itemCount = raw.headers.get('app-itemcount');
+      var insertion = await raw.text();
+      if (start > itemCount) {
+        document.querySelector('#page').textContent = Math.ceil(itemCount / 21);
+        updateDatabase();
+      }
+      if (insertion) {
+        document.querySelector('.items').innerHTML = insertion;
+        document.querySelector('.items').innerHTML +=
+          '<div class="btn-container"><div onclick="javascript: vdecrement()" id="decrement" class="prev-page"><h3>Vorherige Seite</h3></div><div onclick="javascript: vincrement()" id="increment" class="next-page"><h3>Nächste Seite</h3></div></div>';
+      }
+      if (parseInt(page) == 1)
+        for (let element of document.querySelectorAll('#decrement')) element.style.opacity = 0.2;
+      else
+        for (let element of document.querySelectorAll('#decrement')) element.style.opacity = 1;
+      if (document.querySelector('.items').children.length < 21 && itemCount != 21)
+        for (let element of document.querySelectorAll('#increment')) element.style.opacity = 0.2;
+      else
+        for (let element of document.querySelectorAll('#increment')) element.style.opacity = 1;
+      updateCart();
+    }
+    updateDatabase();
+
+    document.getElementById('page').addEventListener('keypress', (evt) => {
+      if (evt.which === 13) {
+        evt.preventDefault();
+      }
+    });
+  </script>
+</body>
+
+</html>
